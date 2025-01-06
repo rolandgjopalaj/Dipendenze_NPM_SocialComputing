@@ -1,0 +1,1307 @@
+{
+    "xo": [
+        "@eslint/eslintrc",
+        "@typescript-eslint/eslint-plugin",
+        "@typescript-eslint/parser",
+        "arrify",
+        "cosmiconfig",
+        "define-lazy-prop",
+        "eslint",
+        "eslint-config-prettier",
+        "eslint-config-xo",
+        "eslint-config-xo-typescript",
+        "eslint-formatter-pretty",
+        "eslint-import-resolver-webpack",
+        "eslint-plugin-ava",
+        "eslint-plugin-eslint-comments",
+        "eslint-plugin-import",
+        "eslint-plugin-n",
+        "eslint-plugin-no-use-extend-native",
+        "eslint-plugin-prettier",
+        "eslint-plugin-promise",
+        "eslint-plugin-unicorn",
+        "esm-utils",
+        "find-cache-dir",
+        "find-up-simple",
+        "get-stdin",
+        "get-tsconfig",
+        "globby",
+        "imurmurhash",
+        "json-stable-stringify-without-jsonify",
+        "lodash-es",
+        "meow",
+        "micromatch",
+        "open-editor",
+        "prettier",
+        "semver",
+        "slash",
+        "to-absolute-glob",
+        "typescript"
+    ],
+    "@eslint/eslintrc": [
+        "ajv",
+        "debug",
+        "espree",
+        "globals",
+        "ignore",
+        "import-fresh",
+        "js-yaml",
+        "minimatch",
+        "strip-json-comments"
+    ],
+    "@typescript-eslint/eslint-plugin": [
+        "ignore",
+        "graphemer",
+        "ts-api-utils",
+        "natural-compare",
+        "@typescript-eslint/utils",
+        "@eslint-community/regexpp",
+        "@typescript-eslint/type-utils",
+        "@typescript-eslint/visitor-keys",
+        "@typescript-eslint/scope-manager"
+    ],
+    "@typescript-eslint/parser": [
+        "debug",
+        "@typescript-eslint/types",
+        "@typescript-eslint/visitor-keys",
+        "@typescript-eslint/scope-manager",
+        "@typescript-eslint/typescript-estree"
+    ],
+    "arrify": [],
+    "cosmiconfig": [
+        "env-paths",
+        "import-fresh",
+        "js-yaml",
+        "parse-json"
+    ],
+    "define-lazy-prop": [],
+    "eslint": [
+        "@eslint-community/eslint-utils",
+        "@eslint-community/regexpp",
+        "@eslint/config-array",
+        "@eslint/core",
+        "@eslint/eslintrc",
+        "@eslint/js",
+        "@eslint/plugin-kit",
+        "@humanfs/node",
+        "@humanwhocodes/module-importer",
+        "@humanwhocodes/retry",
+        "@types/estree",
+        "@types/json-schema",
+        "ajv",
+        "chalk",
+        "cross-spawn",
+        "debug",
+        "escape-string-regexp",
+        "eslint-scope",
+        "eslint-visitor-keys",
+        "espree",
+        "esquery",
+        "esutils",
+        "fast-deep-equal",
+        "file-entry-cache",
+        "find-up",
+        "glob-parent",
+        "ignore",
+        "imurmurhash",
+        "is-glob",
+        "json-stable-stringify-without-jsonify",
+        "lodash.merge",
+        "minimatch",
+        "natural-compare",
+        "optionator"
+    ],
+    "eslint-config-prettier": [],
+    "eslint-config-xo": [
+        "@stylistic/eslint-plugin",
+        "confusing-browser-globals",
+        "globals"
+    ],
+    "eslint-config-xo-typescript": [
+        "@stylistic/eslint-plugin",
+        "eslint-config-xo",
+        "typescript-eslint"
+    ],
+    "eslint-formatter-pretty": [
+        "@types/eslint",
+        "ansi-escapes",
+        "chalk",
+        "eslint-rule-docs",
+        "log-symbols",
+        "plur",
+        "string-width",
+        "supports-hyperlinks"
+    ],
+    "eslint-import-resolver-webpack": [
+        "debug",
+        "enhanced-resolve",
+        "find-root",
+        "hasown",
+        "interpret",
+        "is-core-module",
+        "is-regex",
+        "lodash",
+        "resolve",
+        "semver"
+    ],
+    "eslint-plugin-ava": [
+        "enhance-visitors",
+        "eslint-utils",
+        "espree",
+        "espurify",
+        "import-modules",
+        "micro-spelling-correcter",
+        "pkg-dir",
+        "resolve-from"
+    ],
+    "eslint-plugin-eslint-comments": [
+        "escape-string-regexp",
+        "ignore"
+    ],
+    "eslint-plugin-import": [
+        "@rtsao/scc",
+        "array-includes",
+        "array.prototype.findlastindex",
+        "array.prototype.flat",
+        "array.prototype.flatmap",
+        "debug",
+        "doctrine",
+        "eslint-import-resolver-node",
+        "eslint-module-utils",
+        "hasown",
+        "is-core-module",
+        "is-glob",
+        "minimatch",
+        "object.fromentries",
+        "object.groupby",
+        "object.values",
+        "semver",
+        "string.prototype.trimend",
+        "tsconfig-paths"
+    ],
+    "eslint-plugin-n": [
+        "@eslint-community/eslint-utils",
+        "enhanced-resolve",
+        "eslint-plugin-es-x",
+        "get-tsconfig",
+        "globals",
+        "ignore",
+        "minimatch",
+        "semver"
+    ],
+    "eslint-plugin-no-use-extend-native": [
+        "is-get-set-prop",
+        "is-js-type",
+        "is-obj-prop",
+        "is-proto-prop"
+    ],
+    "eslint-plugin-prettier": [
+        "prettier-linter-helpers",
+        "synckit"
+    ],
+    "eslint-plugin-promise": [
+        "@eslint-community/eslint-utils"
+    ],
+    "eslint-plugin-unicorn": [
+        "@babel/helper-validator-identifier",
+        "@eslint-community/eslint-utils",
+        "ci-info",
+        "clean-regexp",
+        "core-js-compat",
+        "esquery",
+        "globals",
+        "indent-string",
+        "is-builtin-module",
+        "jsesc",
+        "pluralize",
+        "read-pkg-up",
+        "regexp-tree",
+        "regjsparser",
+        "semver",
+        "strip-indent"
+    ],
+    "esm-utils": [
+        "import-meta-resolve",
+        "url-or-path"
+    ],
+    "find-cache-dir": [
+        "common-path-prefix",
+        "pkg-dir"
+    ],
+    "find-up-simple": [],
+    "get-stdin": [],
+    "get-tsconfig": [
+        "resolve-pkg-maps"
+    ],
+    "globby": [
+        "@sindresorhus/merge-streams",
+        "fast-glob",
+        "ignore",
+        "path-type",
+        "slash",
+        "unicorn-magic"
+    ],
+    "imurmurhash": [],
+    "json-stable-stringify-without-jsonify": [],
+    "lodash-es": [],
+    "meow": [],
+    "micromatch": [
+        "braces",
+        "picomatch"
+    ],
+    "open-editor": [
+        "env-editor",
+        "execa",
+        "line-column-path",
+        "open"
+    ],
+    "prettier": [],
+    "semver": [],
+    "slash": [],
+    "to-absolute-glob": [
+        "is-absolute",
+        "is-negated-glob"
+    ],
+    "typescript": [],
+    "ajv": [
+        "fast-deep-equal",
+        "fast-uri",
+        "json-schema-traverse",
+        "require-from-string"
+    ],
+    "debug": [
+        "ms"
+    ],
+    "espree": [
+        "acorn",
+        "acorn-jsx",
+        "eslint-visitor-keys"
+    ],
+    "globals": [],
+    "ignore": [],
+    "import-fresh": [
+        "parent-module",
+        "resolve-from"
+    ],
+    "js-yaml": [
+        "argparse"
+    ],
+    "minimatch": [
+        "brace-expansion"
+    ],
+    "strip-json-comments": [],
+    "graphemer": [],
+    "ts-api-utils": [],
+    "natural-compare": [],
+    "@typescript-eslint/utils": [
+        "@typescript-eslint/types",
+        "@eslint-community/eslint-utils",
+        "@typescript-eslint/scope-manager",
+        "@typescript-eslint/typescript-estree"
+    ],
+    "@eslint-community/regexpp": [],
+    "@typescript-eslint/type-utils": [
+        "debug",
+        "ts-api-utils",
+        "@typescript-eslint/utils",
+        "@typescript-eslint/typescript-estree"
+    ],
+    "@typescript-eslint/visitor-keys": [
+        "eslint-visitor-keys",
+        "@typescript-eslint/types"
+    ],
+    "@typescript-eslint/scope-manager": [
+        "@typescript-eslint/types",
+        "@typescript-eslint/visitor-keys"
+    ],
+    "@typescript-eslint/types": [],
+    "@typescript-eslint/typescript-estree": [
+        "debug",
+        "semver",
+        "is-glob",
+        "fast-glob",
+        "minimatch",
+        "ts-api-utils",
+        "@typescript-eslint/types",
+        "@typescript-eslint/visitor-keys"
+    ],
+    "env-paths": [],
+    "parse-json": [
+        "@babel/code-frame",
+        "index-to-position",
+        "type-fest"
+    ],
+    "@eslint-community/eslint-utils": [
+        "eslint-visitor-keys"
+    ],
+    "@eslint/config-array": [
+        "@eslint/object-schema",
+        "debug",
+        "minimatch"
+    ],
+    "@eslint/core": [
+        "@types/json-schema"
+    ],
+    "@eslint/js": [],
+    "@eslint/plugin-kit": [
+        "levn"
+    ],
+    "@humanfs/node": [
+        "@humanwhocodes/retry",
+        "@humanfs/core"
+    ],
+    "@humanwhocodes/module-importer": [],
+    "@humanwhocodes/retry": [],
+    "@types/estree": [],
+    "@types/json-schema": [],
+    "chalk": [],
+    "cross-spawn": [
+        "which",
+        "path-key",
+        "shebang-command"
+    ],
+    "escape-string-regexp": [],
+    "eslint-scope": [
+        "esrecurse",
+        "estraverse"
+    ],
+    "eslint-visitor-keys": [],
+    "esquery": [
+        "estraverse"
+    ],
+    "esutils": [],
+    "fast-deep-equal": [],
+    "file-entry-cache": [
+        "flat-cache"
+    ],
+    "find-up": [
+        "locate-path",
+        "path-exists",
+        "unicorn-magic"
+    ],
+    "glob-parent": [
+        "is-glob"
+    ],
+    "is-glob": [
+        "is-extglob"
+    ],
+    "lodash.merge": [],
+    "optionator": [
+        "prelude-ls",
+        "deep-is",
+        "word-wrap",
+        "type-check",
+        "levn",
+        "fast-levenshtein"
+    ],
+    "@stylistic/eslint-plugin": [
+        "@typescript-eslint/utils",
+        "eslint-visitor-keys",
+        "espree",
+        "estraverse",
+        "picomatch"
+    ],
+    "confusing-browser-globals": [],
+    "typescript-eslint": [
+        "@typescript-eslint/utils",
+        "@typescript-eslint/parser",
+        "@typescript-eslint/eslint-plugin"
+    ],
+    "@types/eslint": [
+        "@types/estree",
+        "@types/json-schema"
+    ],
+    "ansi-escapes": [
+        "environment"
+    ],
+    "eslint-rule-docs": [],
+    "log-symbols": [
+        "is-unicode-supported",
+        "yoctocolors"
+    ],
+    "plur": [
+        "irregular-plurals"
+    ],
+    "string-width": [
+        "emoji-regex",
+        "get-east-asian-width",
+        "strip-ansi"
+    ],
+    "supports-hyperlinks": [
+        "has-flag",
+        "supports-color"
+    ],
+    "enhanced-resolve": [
+        "graceful-fs",
+        "tapable"
+    ],
+    "find-root": [],
+    "hasown": [
+        "function-bind"
+    ],
+    "interpret": [],
+    "is-core-module": [
+        "hasown"
+    ],
+    "is-regex": [
+        "call-bound",
+        "gopd",
+        "has-tostringtag",
+        "hasown"
+    ],
+    "lodash": [],
+    "resolve": [
+        "is-core-module",
+        "path-parse",
+        "supports-preserve-symlinks-flag"
+    ],
+    "enhance-visitors": [
+        "lodash"
+    ],
+    "eslint-utils": [
+        "eslint-visitor-keys"
+    ],
+    "espurify": [],
+    "import-modules": [],
+    "micro-spelling-correcter": [],
+    "pkg-dir": [
+        "find-up-simple"
+    ],
+    "resolve-from": [],
+    "@rtsao/scc": [],
+    "array-includes": [
+        "call-bind",
+        "define-properties",
+        "es-abstract",
+        "es-object-atoms",
+        "get-intrinsic",
+        "is-string"
+    ],
+    "array.prototype.findlastindex": [
+        "call-bind",
+        "define-properties",
+        "es-abstract",
+        "es-errors",
+        "es-object-atoms",
+        "es-shim-unscopables"
+    ],
+    "array.prototype.flat": [
+        "call-bind",
+        "define-properties",
+        "es-abstract",
+        "es-shim-unscopables"
+    ],
+    "array.prototype.flatmap": [
+        "call-bind",
+        "define-properties",
+        "es-abstract",
+        "es-shim-unscopables"
+    ],
+    "doctrine": [
+        "esutils"
+    ],
+    "eslint-import-resolver-node": [
+        "debug",
+        "is-core-module",
+        "resolve"
+    ],
+    "eslint-module-utils": [
+        "debug"
+    ],
+    "object.fromentries": [
+        "call-bind",
+        "define-properties",
+        "es-abstract",
+        "es-object-atoms"
+    ],
+    "object.groupby": [
+        "call-bind",
+        "define-properties",
+        "es-abstract"
+    ],
+    "object.values": [
+        "call-bind",
+        "call-bound",
+        "define-properties",
+        "es-object-atoms"
+    ],
+    "string.prototype.trimend": [
+        "call-bind",
+        "call-bound",
+        "define-properties",
+        "es-object-atoms"
+    ],
+    "tsconfig-paths": [
+        "json5",
+        "minimist",
+        "strip-bom"
+    ],
+    "eslint-plugin-es-x": [
+        "@eslint-community/eslint-utils",
+        "@eslint-community/regexpp",
+        "eslint-compat-utils"
+    ],
+    "is-get-set-prop": [
+        "get-set-props",
+        "lowercase-keys"
+    ],
+    "is-js-type": [
+        "js-types"
+    ],
+    "is-obj-prop": [
+        "lowercase-keys",
+        "obj-props"
+    ],
+    "is-proto-prop": [
+        "lowercase-keys",
+        "prototype-properties"
+    ],
+    "prettier-linter-helpers": [
+        "fast-diff"
+    ],
+    "synckit": [
+        "@pkgr/core",
+        "tslib"
+    ],
+    "@babel/helper-validator-identifier": [],
+    "ci-info": [],
+    "clean-regexp": [
+        "escape-string-regexp"
+    ],
+    "core-js-compat": [
+        "browserslist"
+    ],
+    "indent-string": [],
+    "is-builtin-module": [
+        "builtin-modules"
+    ],
+    "jsesc": [],
+    "pluralize": [],
+    "read-pkg-up": [
+        "find-up-simple",
+        "read-pkg",
+        "type-fest"
+    ],
+    "regexp-tree": [],
+    "regjsparser": [
+        "jsesc"
+    ],
+    "strip-indent": [
+        "min-indent"
+    ],
+    "import-meta-resolve": [],
+    "url-or-path": [],
+    "common-path-prefix": [],
+    "resolve-pkg-maps": [],
+    "@sindresorhus/merge-streams": [],
+    "fast-glob": [
+        "@nodelib/fs.stat",
+        "@nodelib/fs.walk",
+        "glob-parent",
+        "merge2",
+        "micromatch"
+    ],
+    "path-type": [],
+    "unicorn-magic": [],
+    "braces": [
+        "fill-range"
+    ],
+    "picomatch": [],
+    "env-editor": [],
+    "execa": [
+        "@sindresorhus/merge-streams",
+        "cross-spawn",
+        "figures",
+        "get-stream",
+        "human-signals",
+        "is-plain-obj",
+        "is-stream",
+        "npm-run-path",
+        "pretty-ms",
+        "signal-exit",
+        "strip-final-newline",
+        "yoctocolors"
+    ],
+    "line-column-path": [
+        "type-fest"
+    ],
+    "open": [
+        "default-browser",
+        "define-lazy-prop",
+        "is-inside-container",
+        "is-wsl"
+    ],
+    "is-absolute": [
+        "is-relative",
+        "is-windows"
+    ],
+    "is-negated-glob": [],
+    "fast-uri": [],
+    "json-schema-traverse": [],
+    "require-from-string": [],
+    "ms": [],
+    "acorn": [],
+    "acorn-jsx": [],
+    "parent-module": [
+        "callsites"
+    ],
+    "argparse": [],
+    "brace-expansion": [
+        "balanced-match"
+    ],
+    "@babel/code-frame": [
+        "js-tokens",
+        "picocolors",
+        "@babel/helper-validator-identifier"
+    ],
+    "index-to-position": [],
+    "type-fest": [],
+    "@eslint/object-schema": [],
+    "levn": [
+        "prelude-ls",
+        "type-check"
+    ],
+    "@humanfs/core": [],
+    "which": [
+        "isexe"
+    ],
+    "path-key": [],
+    "shebang-command": [
+        "shebang-regex"
+    ],
+    "esrecurse": [
+        "estraverse"
+    ],
+    "estraverse": [],
+    "flat-cache": [
+        "flatted",
+        "hookified",
+        "cacheable"
+    ],
+    "locate-path": [
+        "p-locate"
+    ],
+    "path-exists": [],
+    "is-extglob": [],
+    "prelude-ls": [],
+    "deep-is": [],
+    "word-wrap": [],
+    "type-check": [
+        "prelude-ls"
+    ],
+    "fast-levenshtein": [
+        "fastest-levenshtein"
+    ],
+    "environment": [],
+    "is-unicode-supported": [],
+    "yoctocolors": [],
+    "irregular-plurals": [],
+    "emoji-regex": [],
+    "get-east-asian-width": [],
+    "strip-ansi": [
+        "ansi-regex"
+    ],
+    "has-flag": [],
+    "supports-color": [],
+    "graceful-fs": [],
+    "tapable": [],
+    "function-bind": [],
+    "call-bound": [
+        "call-bind-apply-helpers",
+        "get-intrinsic"
+    ],
+    "gopd": [],
+    "has-tostringtag": [
+        "has-symbols"
+    ],
+    "path-parse": [],
+    "supports-preserve-symlinks-flag": [],
+    "call-bind": [
+        "call-bind-apply-helpers",
+        "es-define-property",
+        "get-intrinsic",
+        "set-function-length"
+    ],
+    "define-properties": [
+        "define-data-property",
+        "has-property-descriptors",
+        "object-keys"
+    ],
+    "es-abstract": [
+        "array-buffer-byte-length",
+        "arraybuffer.prototype.slice",
+        "available-typed-arrays",
+        "call-bind",
+        "call-bound",
+        "data-view-buffer",
+        "data-view-byte-length",
+        "data-view-byte-offset",
+        "es-define-property",
+        "es-errors",
+        "es-object-atoms",
+        "es-set-tostringtag",
+        "es-to-primitive",
+        "function.prototype.name",
+        "get-intrinsic",
+        "get-proto",
+        "get-symbol-description",
+        "globalthis",
+        "gopd",
+        "has-property-descriptors",
+        "has-proto",
+        "has-symbols",
+        "hasown",
+        "internal-slot",
+        "is-array-buffer",
+        "is-callable",
+        "is-data-view",
+        "is-regex",
+        "is-shared-array-buffer",
+        "is-string",
+        "is-typed-array",
+        "is-weakref",
+        "math-intrinsics",
+        "object-inspect",
+        "object-keys",
+        "object.assign",
+        "own-keys",
+        "regexp.prototype.flags",
+        "safe-array-concat",
+        "safe-push-apply",
+        "safe-regex-test",
+        "set-proto",
+        "string.prototype.trim",
+        "string.prototype.trimend",
+        "string.prototype.trimstart",
+        "typed-array-buffer",
+        "typed-array-byte-length",
+        "typed-array-byte-offset",
+        "typed-array-length",
+        "unbox-primitive",
+        "which-typed-array"
+    ],
+    "es-object-atoms": [
+        "es-errors"
+    ],
+    "get-intrinsic": [
+        "call-bind-apply-helpers",
+        "es-define-property",
+        "es-errors",
+        "es-object-atoms",
+        "function-bind",
+        "get-proto",
+        "gopd",
+        "has-symbols",
+        "hasown",
+        "math-intrinsics"
+    ],
+    "is-string": [
+        "call-bound",
+        "has-tostringtag"
+    ],
+    "es-errors": [],
+    "es-shim-unscopables": [
+        "hasown"
+    ],
+    "json5": [],
+    "minimist": [],
+    "strip-bom": [],
+    "eslint-compat-utils": [
+        "semver"
+    ],
+    "get-set-props": [],
+    "lowercase-keys": [],
+    "js-types": [],
+    "obj-props": [],
+    "prototype-properties": [],
+    "fast-diff": [],
+    "@pkgr/core": [],
+    "tslib": [],
+    "browserslist": [
+        "caniuse-lite",
+        "electron-to-chromium",
+        "node-releases",
+        "update-browserslist-db"
+    ],
+    "builtin-modules": [],
+    "read-pkg": [
+        "@types/normalize-package-data",
+        "normalize-package-data",
+        "parse-json",
+        "type-fest",
+        "unicorn-magic"
+    ],
+    "min-indent": [],
+    "@nodelib/fs.stat": [],
+    "@nodelib/fs.walk": [
+        "@nodelib/fs.scandir",
+        "fastq"
+    ],
+    "merge2": [],
+    "fill-range": [
+        "to-regex-range"
+    ],
+    "figures": [
+        "is-unicode-supported"
+    ],
+    "get-stream": [
+        "@sec-ant/readable-stream",
+        "is-stream"
+    ],
+    "human-signals": [],
+    "is-plain-obj": [],
+    "is-stream": [],
+    "npm-run-path": [
+        "path-key",
+        "unicorn-magic"
+    ],
+    "pretty-ms": [
+        "parse-ms"
+    ],
+    "signal-exit": [],
+    "strip-final-newline": [],
+    "default-browser": [
+        "bundle-name",
+        "default-browser-id"
+    ],
+    "is-inside-container": [
+        "is-docker"
+    ],
+    "is-wsl": [
+        "is-inside-container"
+    ],
+    "is-relative": [
+        "is-unc-path"
+    ],
+    "is-windows": [],
+    "callsites": [],
+    "balanced-match": [],
+    "js-tokens": [],
+    "picocolors": [],
+    "isexe": [],
+    "shebang-regex": [],
+    "flatted": [],
+    "hookified": [],
+    "cacheable": [
+        "hookified",
+        "keyv"
+    ],
+    "p-locate": [
+        "p-limit"
+    ],
+    "fastest-levenshtein": [],
+    "ansi-regex": [],
+    "call-bind-apply-helpers": [
+        "es-errors",
+        "function-bind"
+    ],
+    "has-symbols": [],
+    "es-define-property": [],
+    "set-function-length": [
+        "define-data-property",
+        "es-errors",
+        "function-bind",
+        "get-intrinsic",
+        "gopd",
+        "has-property-descriptors"
+    ],
+    "define-data-property": [
+        "es-define-property",
+        "es-errors",
+        "gopd"
+    ],
+    "has-property-descriptors": [
+        "es-define-property"
+    ],
+    "object-keys": [],
+    "array-buffer-byte-length": [
+        "call-bound",
+        "is-array-buffer"
+    ],
+    "arraybuffer.prototype.slice": [
+        "array-buffer-byte-length",
+        "call-bind",
+        "define-properties",
+        "es-abstract",
+        "es-errors",
+        "get-intrinsic",
+        "is-array-buffer"
+    ],
+    "available-typed-arrays": [
+        "possible-typed-array-names"
+    ],
+    "data-view-buffer": [
+        "call-bound",
+        "es-errors",
+        "is-data-view"
+    ],
+    "data-view-byte-length": [
+        "call-bound",
+        "es-errors",
+        "is-data-view"
+    ],
+    "data-view-byte-offset": [
+        "call-bound",
+        "es-errors",
+        "is-data-view"
+    ],
+    "es-set-tostringtag": [
+        "es-errors",
+        "get-intrinsic",
+        "has-tostringtag",
+        "hasown"
+    ],
+    "es-to-primitive": [
+        "is-callable",
+        "is-date-object",
+        "is-symbol"
+    ],
+    "function.prototype.name": [
+        "call-bind",
+        "call-bound",
+        "define-properties",
+        "functions-have-names",
+        "hasown",
+        "is-callable"
+    ],
+    "get-proto": [
+        "dunder-proto",
+        "es-object-atoms"
+    ],
+    "get-symbol-description": [
+        "call-bound",
+        "es-errors",
+        "get-intrinsic"
+    ],
+    "globalthis": [
+        "define-properties",
+        "gopd"
+    ],
+    "has-proto": [
+        "dunder-proto"
+    ],
+    "internal-slot": [
+        "es-errors",
+        "hasown",
+        "side-channel"
+    ],
+    "is-array-buffer": [
+        "call-bind",
+        "call-bound",
+        "get-intrinsic"
+    ],
+    "is-callable": [],
+    "is-data-view": [
+        "call-bound",
+        "get-intrinsic",
+        "is-typed-array"
+    ],
+    "is-shared-array-buffer": [
+        "call-bound"
+    ],
+    "is-typed-array": [
+        "which-typed-array"
+    ],
+    "is-weakref": [
+        "call-bound"
+    ],
+    "math-intrinsics": [],
+    "object-inspect": [],
+    "object.assign": [
+        "call-bind",
+        "call-bound",
+        "define-properties",
+        "es-object-atoms",
+        "has-symbols",
+        "object-keys"
+    ],
+    "own-keys": [
+        "get-intrinsic",
+        "object-keys",
+        "safe-push-apply"
+    ],
+    "regexp.prototype.flags": [
+        "call-bind",
+        "define-properties",
+        "es-errors",
+        "get-proto",
+        "gopd",
+        "set-function-name"
+    ],
+    "safe-array-concat": [
+        "call-bind",
+        "call-bound",
+        "get-intrinsic",
+        "has-symbols",
+        "isarray"
+    ],
+    "safe-push-apply": [
+        "es-errors",
+        "isarray"
+    ],
+    "safe-regex-test": [
+        "call-bound",
+        "es-errors",
+        "is-regex"
+    ],
+    "set-proto": [
+        "dunder-proto",
+        "es-errors",
+        "es-object-atoms"
+    ],
+    "string.prototype.trim": [
+        "call-bind",
+        "call-bound",
+        "define-data-property",
+        "define-properties",
+        "es-abstract",
+        "es-object-atoms",
+        "has-property-descriptors"
+    ],
+    "string.prototype.trimstart": [
+        "call-bind",
+        "define-properties",
+        "es-object-atoms"
+    ],
+    "typed-array-buffer": [
+        "call-bound",
+        "es-errors",
+        "is-typed-array"
+    ],
+    "typed-array-byte-length": [
+        "call-bind",
+        "for-each",
+        "gopd",
+        "has-proto",
+        "is-typed-array"
+    ],
+    "typed-array-byte-offset": [
+        "available-typed-arrays",
+        "call-bind",
+        "for-each",
+        "gopd",
+        "has-proto",
+        "is-typed-array",
+        "reflect.getprototypeof"
+    ],
+    "typed-array-length": [
+        "call-bind",
+        "for-each",
+        "gopd",
+        "is-typed-array",
+        "possible-typed-array-names",
+        "reflect.getprototypeof"
+    ],
+    "unbox-primitive": [
+        "call-bound",
+        "has-bigints",
+        "has-symbols",
+        "which-boxed-primitive"
+    ],
+    "which-typed-array": [
+        "available-typed-arrays",
+        "call-bind",
+        "call-bound",
+        "for-each",
+        "gopd",
+        "has-tostringtag"
+    ],
+    "caniuse-lite": [],
+    "electron-to-chromium": [],
+    "node-releases": [],
+    "update-browserslist-db": [
+        "escalade",
+        "picocolors"
+    ],
+    "@types/normalize-package-data": [],
+    "normalize-package-data": [
+        "hosted-git-info",
+        "semver",
+        "validate-npm-package-license"
+    ],
+    "@nodelib/fs.scandir": [
+        "@nodelib/fs.stat",
+        "run-parallel"
+    ],
+    "fastq": [
+        "reusify"
+    ],
+    "to-regex-range": [
+        "is-number"
+    ],
+    "@sec-ant/readable-stream": [],
+    "parse-ms": [],
+    "bundle-name": [
+        "run-applescript"
+    ],
+    "default-browser-id": [],
+    "is-docker": [],
+    "is-unc-path": [
+        "unc-path-regex"
+    ],
+    "keyv": [
+        "@keyv/serialize"
+    ],
+    "p-limit": [
+        "yocto-queue"
+    ],
+    "possible-typed-array-names": [],
+    "is-date-object": [
+        "call-bound",
+        "has-tostringtag"
+    ],
+    "is-symbol": [
+        "call-bound",
+        "has-symbols",
+        "safe-regex-test"
+    ],
+    "functions-have-names": [],
+    "dunder-proto": [
+        "call-bind-apply-helpers",
+        "es-errors",
+        "gopd"
+    ],
+    "side-channel": [
+        "es-errors",
+        "object-inspect",
+        "side-channel-list",
+        "side-channel-map",
+        "side-channel-weakmap"
+    ],
+    "set-function-name": [
+        "define-data-property",
+        "es-errors",
+        "functions-have-names",
+        "has-property-descriptors"
+    ],
+    "isarray": [],
+    "for-each": [
+        "is-callable"
+    ],
+    "reflect.getprototypeof": [
+        "call-bind",
+        "define-properties",
+        "es-abstract",
+        "es-errors",
+        "es-object-atoms",
+        "get-intrinsic",
+        "get-proto",
+        "which-builtin-type"
+    ],
+    "has-bigints": [],
+    "which-boxed-primitive": [
+        "is-bigint",
+        "is-boolean-object",
+        "is-number-object",
+        "is-string",
+        "is-symbol"
+    ],
+    "escalade": [],
+    "hosted-git-info": [
+        "lru-cache"
+    ],
+    "validate-npm-package-license": [
+        "spdx-correct",
+        "spdx-expression-parse"
+    ],
+    "run-parallel": [
+        "queue-microtask"
+    ],
+    "reusify": [],
+    "is-number": [],
+    "run-applescript": [],
+    "unc-path-regex": [],
+    "@keyv/serialize": [
+        "buffer"
+    ],
+    "yocto-queue": [],
+    "side-channel-list": [
+        "es-errors",
+        "object-inspect"
+    ],
+    "side-channel-map": [
+        "call-bound",
+        "es-errors",
+        "get-intrinsic",
+        "object-inspect"
+    ],
+    "side-channel-weakmap": [
+        "call-bound",
+        "es-errors",
+        "get-intrinsic",
+        "object-inspect",
+        "side-channel-map"
+    ],
+    "which-builtin-type": [
+        "call-bound",
+        "function.prototype.name",
+        "has-tostringtag",
+        "is-async-function",
+        "is-date-object",
+        "is-finalizationregistry",
+        "is-generator-function",
+        "is-regex",
+        "is-weakref",
+        "isarray",
+        "which-boxed-primitive",
+        "which-collection",
+        "which-typed-array"
+    ],
+    "is-bigint": [
+        "has-bigints"
+    ],
+    "is-boolean-object": [
+        "call-bound",
+        "has-tostringtag"
+    ],
+    "is-number-object": [
+        "call-bound",
+        "has-tostringtag"
+    ],
+    "lru-cache": [],
+    "spdx-correct": [
+        "spdx-expression-parse",
+        "spdx-license-ids"
+    ],
+    "spdx-expression-parse": [
+        "spdx-exceptions",
+        "spdx-license-ids"
+    ],
+    "queue-microtask": [],
+    "buffer": [
+        "base64-js",
+        "ieee754"
+    ],
+    "is-async-function": [
+        "call-bound",
+        "get-proto",
+        "has-tostringtag",
+        "safe-regex-test"
+    ],
+    "is-finalizationregistry": [
+        "call-bound"
+    ],
+    "is-generator-function": [
+        "call-bound",
+        "get-proto",
+        "has-tostringtag",
+        "safe-regex-test"
+    ],
+    "which-collection": [
+        "is-map",
+        "is-set",
+        "is-weakmap",
+        "is-weakset"
+    ],
+    "spdx-license-ids": [],
+    "spdx-exceptions": [],
+    "base64-js": [],
+    "ieee754": [],
+    "is-map": [],
+    "is-set": [],
+    "is-weakmap": [],
+    "is-weakset": [
+        "call-bound",
+        "get-intrinsic"
+    ]
+}

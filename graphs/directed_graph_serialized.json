@@ -1,0 +1,4038 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "id": "xo"
+        },
+        {
+            "id": "@eslint/eslintrc"
+        },
+        {
+            "id": "@typescript-eslint/eslint-plugin"
+        },
+        {
+            "id": "@typescript-eslint/parser"
+        },
+        {
+            "id": "arrify"
+        },
+        {
+            "id": "cosmiconfig"
+        },
+        {
+            "id": "define-lazy-prop"
+        },
+        {
+            "id": "eslint"
+        },
+        {
+            "id": "eslint-config-prettier"
+        },
+        {
+            "id": "eslint-config-xo"
+        },
+        {
+            "id": "eslint-config-xo-typescript"
+        },
+        {
+            "id": "eslint-formatter-pretty"
+        },
+        {
+            "id": "eslint-import-resolver-webpack"
+        },
+        {
+            "id": "eslint-plugin-ava"
+        },
+        {
+            "id": "eslint-plugin-eslint-comments"
+        },
+        {
+            "id": "eslint-plugin-import"
+        },
+        {
+            "id": "eslint-plugin-n"
+        },
+        {
+            "id": "eslint-plugin-no-use-extend-native"
+        },
+        {
+            "id": "eslint-plugin-prettier"
+        },
+        {
+            "id": "eslint-plugin-promise"
+        },
+        {
+            "id": "eslint-plugin-unicorn"
+        },
+        {
+            "id": "esm-utils"
+        },
+        {
+            "id": "find-cache-dir"
+        },
+        {
+            "id": "find-up-simple"
+        },
+        {
+            "id": "get-stdin"
+        },
+        {
+            "id": "get-tsconfig"
+        },
+        {
+            "id": "globby"
+        },
+        {
+            "id": "imurmurhash"
+        },
+        {
+            "id": "json-stable-stringify-without-jsonify"
+        },
+        {
+            "id": "lodash-es"
+        },
+        {
+            "id": "meow"
+        },
+        {
+            "id": "micromatch"
+        },
+        {
+            "id": "open-editor"
+        },
+        {
+            "id": "prettier"
+        },
+        {
+            "id": "semver"
+        },
+        {
+            "id": "slash"
+        },
+        {
+            "id": "to-absolute-glob"
+        },
+        {
+            "id": "typescript"
+        },
+        {
+            "id": "ajv"
+        },
+        {
+            "id": "debug"
+        },
+        {
+            "id": "espree"
+        },
+        {
+            "id": "globals"
+        },
+        {
+            "id": "ignore"
+        },
+        {
+            "id": "import-fresh"
+        },
+        {
+            "id": "js-yaml"
+        },
+        {
+            "id": "minimatch"
+        },
+        {
+            "id": "strip-json-comments"
+        },
+        {
+            "id": "graphemer"
+        },
+        {
+            "id": "ts-api-utils"
+        },
+        {
+            "id": "natural-compare"
+        },
+        {
+            "id": "@typescript-eslint/utils"
+        },
+        {
+            "id": "@eslint-community/regexpp"
+        },
+        {
+            "id": "@typescript-eslint/type-utils"
+        },
+        {
+            "id": "@typescript-eslint/visitor-keys"
+        },
+        {
+            "id": "@typescript-eslint/scope-manager"
+        },
+        {
+            "id": "@typescript-eslint/types"
+        },
+        {
+            "id": "@typescript-eslint/typescript-estree"
+        },
+        {
+            "id": "env-paths"
+        },
+        {
+            "id": "parse-json"
+        },
+        {
+            "id": "@eslint-community/eslint-utils"
+        },
+        {
+            "id": "@eslint/config-array"
+        },
+        {
+            "id": "@eslint/core"
+        },
+        {
+            "id": "@eslint/js"
+        },
+        {
+            "id": "@eslint/plugin-kit"
+        },
+        {
+            "id": "@humanfs/node"
+        },
+        {
+            "id": "@humanwhocodes/module-importer"
+        },
+        {
+            "id": "@humanwhocodes/retry"
+        },
+        {
+            "id": "@types/estree"
+        },
+        {
+            "id": "@types/json-schema"
+        },
+        {
+            "id": "chalk"
+        },
+        {
+            "id": "cross-spawn"
+        },
+        {
+            "id": "escape-string-regexp"
+        },
+        {
+            "id": "eslint-scope"
+        },
+        {
+            "id": "eslint-visitor-keys"
+        },
+        {
+            "id": "esquery"
+        },
+        {
+            "id": "esutils"
+        },
+        {
+            "id": "fast-deep-equal"
+        },
+        {
+            "id": "file-entry-cache"
+        },
+        {
+            "id": "find-up"
+        },
+        {
+            "id": "glob-parent"
+        },
+        {
+            "id": "is-glob"
+        },
+        {
+            "id": "lodash.merge"
+        },
+        {
+            "id": "optionator"
+        },
+        {
+            "id": "@stylistic/eslint-plugin"
+        },
+        {
+            "id": "confusing-browser-globals"
+        },
+        {
+            "id": "typescript-eslint"
+        },
+        {
+            "id": "@types/eslint"
+        },
+        {
+            "id": "ansi-escapes"
+        },
+        {
+            "id": "eslint-rule-docs"
+        },
+        {
+            "id": "log-symbols"
+        },
+        {
+            "id": "plur"
+        },
+        {
+            "id": "string-width"
+        },
+        {
+            "id": "supports-hyperlinks"
+        },
+        {
+            "id": "enhanced-resolve"
+        },
+        {
+            "id": "find-root"
+        },
+        {
+            "id": "hasown"
+        },
+        {
+            "id": "interpret"
+        },
+        {
+            "id": "is-core-module"
+        },
+        {
+            "id": "is-regex"
+        },
+        {
+            "id": "lodash"
+        },
+        {
+            "id": "resolve"
+        },
+        {
+            "id": "enhance-visitors"
+        },
+        {
+            "id": "eslint-utils"
+        },
+        {
+            "id": "espurify"
+        },
+        {
+            "id": "import-modules"
+        },
+        {
+            "id": "micro-spelling-correcter"
+        },
+        {
+            "id": "pkg-dir"
+        },
+        {
+            "id": "resolve-from"
+        },
+        {
+            "id": "@rtsao/scc"
+        },
+        {
+            "id": "array-includes"
+        },
+        {
+            "id": "array.prototype.findlastindex"
+        },
+        {
+            "id": "array.prototype.flat"
+        },
+        {
+            "id": "array.prototype.flatmap"
+        },
+        {
+            "id": "doctrine"
+        },
+        {
+            "id": "eslint-import-resolver-node"
+        },
+        {
+            "id": "eslint-module-utils"
+        },
+        {
+            "id": "object.fromentries"
+        },
+        {
+            "id": "object.groupby"
+        },
+        {
+            "id": "object.values"
+        },
+        {
+            "id": "string.prototype.trimend"
+        },
+        {
+            "id": "tsconfig-paths"
+        },
+        {
+            "id": "eslint-plugin-es-x"
+        },
+        {
+            "id": "is-get-set-prop"
+        },
+        {
+            "id": "is-js-type"
+        },
+        {
+            "id": "is-obj-prop"
+        },
+        {
+            "id": "is-proto-prop"
+        },
+        {
+            "id": "prettier-linter-helpers"
+        },
+        {
+            "id": "synckit"
+        },
+        {
+            "id": "@babel/helper-validator-identifier"
+        },
+        {
+            "id": "ci-info"
+        },
+        {
+            "id": "clean-regexp"
+        },
+        {
+            "id": "core-js-compat"
+        },
+        {
+            "id": "indent-string"
+        },
+        {
+            "id": "is-builtin-module"
+        },
+        {
+            "id": "jsesc"
+        },
+        {
+            "id": "pluralize"
+        },
+        {
+            "id": "read-pkg-up"
+        },
+        {
+            "id": "regexp-tree"
+        },
+        {
+            "id": "regjsparser"
+        },
+        {
+            "id": "strip-indent"
+        },
+        {
+            "id": "import-meta-resolve"
+        },
+        {
+            "id": "url-or-path"
+        },
+        {
+            "id": "common-path-prefix"
+        },
+        {
+            "id": "resolve-pkg-maps"
+        },
+        {
+            "id": "@sindresorhus/merge-streams"
+        },
+        {
+            "id": "fast-glob"
+        },
+        {
+            "id": "path-type"
+        },
+        {
+            "id": "unicorn-magic"
+        },
+        {
+            "id": "braces"
+        },
+        {
+            "id": "picomatch"
+        },
+        {
+            "id": "env-editor"
+        },
+        {
+            "id": "execa"
+        },
+        {
+            "id": "line-column-path"
+        },
+        {
+            "id": "open"
+        },
+        {
+            "id": "is-absolute"
+        },
+        {
+            "id": "is-negated-glob"
+        },
+        {
+            "id": "fast-uri"
+        },
+        {
+            "id": "json-schema-traverse"
+        },
+        {
+            "id": "require-from-string"
+        },
+        {
+            "id": "ms"
+        },
+        {
+            "id": "acorn"
+        },
+        {
+            "id": "acorn-jsx"
+        },
+        {
+            "id": "parent-module"
+        },
+        {
+            "id": "argparse"
+        },
+        {
+            "id": "brace-expansion"
+        },
+        {
+            "id": "@babel/code-frame"
+        },
+        {
+            "id": "index-to-position"
+        },
+        {
+            "id": "type-fest"
+        },
+        {
+            "id": "@eslint/object-schema"
+        },
+        {
+            "id": "levn"
+        },
+        {
+            "id": "@humanfs/core"
+        },
+        {
+            "id": "which"
+        },
+        {
+            "id": "path-key"
+        },
+        {
+            "id": "shebang-command"
+        },
+        {
+            "id": "esrecurse"
+        },
+        {
+            "id": "estraverse"
+        },
+        {
+            "id": "flat-cache"
+        },
+        {
+            "id": "locate-path"
+        },
+        {
+            "id": "path-exists"
+        },
+        {
+            "id": "is-extglob"
+        },
+        {
+            "id": "prelude-ls"
+        },
+        {
+            "id": "deep-is"
+        },
+        {
+            "id": "word-wrap"
+        },
+        {
+            "id": "type-check"
+        },
+        {
+            "id": "fast-levenshtein"
+        },
+        {
+            "id": "environment"
+        },
+        {
+            "id": "is-unicode-supported"
+        },
+        {
+            "id": "yoctocolors"
+        },
+        {
+            "id": "irregular-plurals"
+        },
+        {
+            "id": "emoji-regex"
+        },
+        {
+            "id": "get-east-asian-width"
+        },
+        {
+            "id": "strip-ansi"
+        },
+        {
+            "id": "has-flag"
+        },
+        {
+            "id": "supports-color"
+        },
+        {
+            "id": "graceful-fs"
+        },
+        {
+            "id": "tapable"
+        },
+        {
+            "id": "function-bind"
+        },
+        {
+            "id": "call-bound"
+        },
+        {
+            "id": "gopd"
+        },
+        {
+            "id": "has-tostringtag"
+        },
+        {
+            "id": "path-parse"
+        },
+        {
+            "id": "supports-preserve-symlinks-flag"
+        },
+        {
+            "id": "call-bind"
+        },
+        {
+            "id": "define-properties"
+        },
+        {
+            "id": "es-abstract"
+        },
+        {
+            "id": "es-object-atoms"
+        },
+        {
+            "id": "get-intrinsic"
+        },
+        {
+            "id": "is-string"
+        },
+        {
+            "id": "es-errors"
+        },
+        {
+            "id": "es-shim-unscopables"
+        },
+        {
+            "id": "json5"
+        },
+        {
+            "id": "minimist"
+        },
+        {
+            "id": "strip-bom"
+        },
+        {
+            "id": "eslint-compat-utils"
+        },
+        {
+            "id": "get-set-props"
+        },
+        {
+            "id": "lowercase-keys"
+        },
+        {
+            "id": "js-types"
+        },
+        {
+            "id": "obj-props"
+        },
+        {
+            "id": "prototype-properties"
+        },
+        {
+            "id": "fast-diff"
+        },
+        {
+            "id": "@pkgr/core"
+        },
+        {
+            "id": "tslib"
+        },
+        {
+            "id": "browserslist"
+        },
+        {
+            "id": "builtin-modules"
+        },
+        {
+            "id": "read-pkg"
+        },
+        {
+            "id": "min-indent"
+        },
+        {
+            "id": "@nodelib/fs.stat"
+        },
+        {
+            "id": "@nodelib/fs.walk"
+        },
+        {
+            "id": "merge2"
+        },
+        {
+            "id": "fill-range"
+        },
+        {
+            "id": "figures"
+        },
+        {
+            "id": "get-stream"
+        },
+        {
+            "id": "human-signals"
+        },
+        {
+            "id": "is-plain-obj"
+        },
+        {
+            "id": "is-stream"
+        },
+        {
+            "id": "npm-run-path"
+        },
+        {
+            "id": "pretty-ms"
+        },
+        {
+            "id": "signal-exit"
+        },
+        {
+            "id": "strip-final-newline"
+        },
+        {
+            "id": "default-browser"
+        },
+        {
+            "id": "is-inside-container"
+        },
+        {
+            "id": "is-wsl"
+        },
+        {
+            "id": "is-relative"
+        },
+        {
+            "id": "is-windows"
+        },
+        {
+            "id": "callsites"
+        },
+        {
+            "id": "balanced-match"
+        },
+        {
+            "id": "js-tokens"
+        },
+        {
+            "id": "picocolors"
+        },
+        {
+            "id": "isexe"
+        },
+        {
+            "id": "shebang-regex"
+        },
+        {
+            "id": "flatted"
+        },
+        {
+            "id": "hookified"
+        },
+        {
+            "id": "cacheable"
+        },
+        {
+            "id": "p-locate"
+        },
+        {
+            "id": "fastest-levenshtein"
+        },
+        {
+            "id": "ansi-regex"
+        },
+        {
+            "id": "call-bind-apply-helpers"
+        },
+        {
+            "id": "has-symbols"
+        },
+        {
+            "id": "es-define-property"
+        },
+        {
+            "id": "set-function-length"
+        },
+        {
+            "id": "define-data-property"
+        },
+        {
+            "id": "has-property-descriptors"
+        },
+        {
+            "id": "object-keys"
+        },
+        {
+            "id": "array-buffer-byte-length"
+        },
+        {
+            "id": "arraybuffer.prototype.slice"
+        },
+        {
+            "id": "available-typed-arrays"
+        },
+        {
+            "id": "data-view-buffer"
+        },
+        {
+            "id": "data-view-byte-length"
+        },
+        {
+            "id": "data-view-byte-offset"
+        },
+        {
+            "id": "es-set-tostringtag"
+        },
+        {
+            "id": "es-to-primitive"
+        },
+        {
+            "id": "function.prototype.name"
+        },
+        {
+            "id": "get-proto"
+        },
+        {
+            "id": "get-symbol-description"
+        },
+        {
+            "id": "globalthis"
+        },
+        {
+            "id": "has-proto"
+        },
+        {
+            "id": "internal-slot"
+        },
+        {
+            "id": "is-array-buffer"
+        },
+        {
+            "id": "is-callable"
+        },
+        {
+            "id": "is-data-view"
+        },
+        {
+            "id": "is-shared-array-buffer"
+        },
+        {
+            "id": "is-typed-array"
+        },
+        {
+            "id": "is-weakref"
+        },
+        {
+            "id": "math-intrinsics"
+        },
+        {
+            "id": "object-inspect"
+        },
+        {
+            "id": "object.assign"
+        },
+        {
+            "id": "own-keys"
+        },
+        {
+            "id": "regexp.prototype.flags"
+        },
+        {
+            "id": "safe-array-concat"
+        },
+        {
+            "id": "safe-push-apply"
+        },
+        {
+            "id": "safe-regex-test"
+        },
+        {
+            "id": "set-proto"
+        },
+        {
+            "id": "string.prototype.trim"
+        },
+        {
+            "id": "string.prototype.trimstart"
+        },
+        {
+            "id": "typed-array-buffer"
+        },
+        {
+            "id": "typed-array-byte-length"
+        },
+        {
+            "id": "typed-array-byte-offset"
+        },
+        {
+            "id": "typed-array-length"
+        },
+        {
+            "id": "unbox-primitive"
+        },
+        {
+            "id": "which-typed-array"
+        },
+        {
+            "id": "caniuse-lite"
+        },
+        {
+            "id": "electron-to-chromium"
+        },
+        {
+            "id": "node-releases"
+        },
+        {
+            "id": "update-browserslist-db"
+        },
+        {
+            "id": "@types/normalize-package-data"
+        },
+        {
+            "id": "normalize-package-data"
+        },
+        {
+            "id": "@nodelib/fs.scandir"
+        },
+        {
+            "id": "fastq"
+        },
+        {
+            "id": "to-regex-range"
+        },
+        {
+            "id": "@sec-ant/readable-stream"
+        },
+        {
+            "id": "parse-ms"
+        },
+        {
+            "id": "bundle-name"
+        },
+        {
+            "id": "default-browser-id"
+        },
+        {
+            "id": "is-docker"
+        },
+        {
+            "id": "is-unc-path"
+        },
+        {
+            "id": "keyv"
+        },
+        {
+            "id": "p-limit"
+        },
+        {
+            "id": "possible-typed-array-names"
+        },
+        {
+            "id": "is-date-object"
+        },
+        {
+            "id": "is-symbol"
+        },
+        {
+            "id": "functions-have-names"
+        },
+        {
+            "id": "dunder-proto"
+        },
+        {
+            "id": "side-channel"
+        },
+        {
+            "id": "set-function-name"
+        },
+        {
+            "id": "isarray"
+        },
+        {
+            "id": "for-each"
+        },
+        {
+            "id": "reflect.getprototypeof"
+        },
+        {
+            "id": "has-bigints"
+        },
+        {
+            "id": "which-boxed-primitive"
+        },
+        {
+            "id": "escalade"
+        },
+        {
+            "id": "hosted-git-info"
+        },
+        {
+            "id": "validate-npm-package-license"
+        },
+        {
+            "id": "run-parallel"
+        },
+        {
+            "id": "reusify"
+        },
+        {
+            "id": "is-number"
+        },
+        {
+            "id": "run-applescript"
+        },
+        {
+            "id": "unc-path-regex"
+        },
+        {
+            "id": "@keyv/serialize"
+        },
+        {
+            "id": "yocto-queue"
+        },
+        {
+            "id": "side-channel-list"
+        },
+        {
+            "id": "side-channel-map"
+        },
+        {
+            "id": "side-channel-weakmap"
+        },
+        {
+            "id": "which-builtin-type"
+        },
+        {
+            "id": "is-bigint"
+        },
+        {
+            "id": "is-boolean-object"
+        },
+        {
+            "id": "is-number-object"
+        },
+        {
+            "id": "lru-cache"
+        },
+        {
+            "id": "spdx-correct"
+        },
+        {
+            "id": "spdx-expression-parse"
+        },
+        {
+            "id": "queue-microtask"
+        },
+        {
+            "id": "buffer"
+        },
+        {
+            "id": "is-async-function"
+        },
+        {
+            "id": "is-finalizationregistry"
+        },
+        {
+            "id": "is-generator-function"
+        },
+        {
+            "id": "which-collection"
+        },
+        {
+            "id": "spdx-license-ids"
+        },
+        {
+            "id": "spdx-exceptions"
+        },
+        {
+            "id": "base64-js"
+        },
+        {
+            "id": "ieee754"
+        },
+        {
+            "id": "is-map"
+        },
+        {
+            "id": "is-set"
+        },
+        {
+            "id": "is-weakmap"
+        },
+        {
+            "id": "is-weakset"
+        }
+    ],
+    "edges": [
+        {
+            "source": "xo",
+            "target": "@eslint/eslintrc"
+        },
+        {
+            "source": "xo",
+            "target": "@typescript-eslint/eslint-plugin"
+        },
+        {
+            "source": "xo",
+            "target": "@typescript-eslint/parser"
+        },
+        {
+            "source": "xo",
+            "target": "arrify"
+        },
+        {
+            "source": "xo",
+            "target": "cosmiconfig"
+        },
+        {
+            "source": "xo",
+            "target": "define-lazy-prop"
+        },
+        {
+            "source": "xo",
+            "target": "eslint"
+        },
+        {
+            "source": "xo",
+            "target": "eslint-config-prettier"
+        },
+        {
+            "source": "xo",
+            "target": "eslint-config-xo"
+        },
+        {
+            "source": "xo",
+            "target": "eslint-config-xo-typescript"
+        },
+        {
+            "source": "xo",
+            "target": "eslint-formatter-pretty"
+        },
+        {
+            "source": "xo",
+            "target": "eslint-import-resolver-webpack"
+        },
+        {
+            "source": "xo",
+            "target": "eslint-plugin-ava"
+        },
+        {
+            "source": "xo",
+            "target": "eslint-plugin-eslint-comments"
+        },
+        {
+            "source": "xo",
+            "target": "eslint-plugin-import"
+        },
+        {
+            "source": "xo",
+            "target": "eslint-plugin-n"
+        },
+        {
+            "source": "xo",
+            "target": "eslint-plugin-no-use-extend-native"
+        },
+        {
+            "source": "xo",
+            "target": "eslint-plugin-prettier"
+        },
+        {
+            "source": "xo",
+            "target": "eslint-plugin-promise"
+        },
+        {
+            "source": "xo",
+            "target": "eslint-plugin-unicorn"
+        },
+        {
+            "source": "xo",
+            "target": "esm-utils"
+        },
+        {
+            "source": "xo",
+            "target": "find-cache-dir"
+        },
+        {
+            "source": "xo",
+            "target": "find-up-simple"
+        },
+        {
+            "source": "xo",
+            "target": "get-stdin"
+        },
+        {
+            "source": "xo",
+            "target": "get-tsconfig"
+        },
+        {
+            "source": "xo",
+            "target": "globby"
+        },
+        {
+            "source": "xo",
+            "target": "imurmurhash"
+        },
+        {
+            "source": "xo",
+            "target": "json-stable-stringify-without-jsonify"
+        },
+        {
+            "source": "xo",
+            "target": "lodash-es"
+        },
+        {
+            "source": "xo",
+            "target": "meow"
+        },
+        {
+            "source": "xo",
+            "target": "micromatch"
+        },
+        {
+            "source": "xo",
+            "target": "open-editor"
+        },
+        {
+            "source": "xo",
+            "target": "prettier"
+        },
+        {
+            "source": "xo",
+            "target": "semver"
+        },
+        {
+            "source": "xo",
+            "target": "slash"
+        },
+        {
+            "source": "xo",
+            "target": "to-absolute-glob"
+        },
+        {
+            "source": "xo",
+            "target": "typescript"
+        },
+        {
+            "source": "@eslint/eslintrc",
+            "target": "ajv"
+        },
+        {
+            "source": "@eslint/eslintrc",
+            "target": "debug"
+        },
+        {
+            "source": "@eslint/eslintrc",
+            "target": "espree"
+        },
+        {
+            "source": "@eslint/eslintrc",
+            "target": "globals"
+        },
+        {
+            "source": "@eslint/eslintrc",
+            "target": "ignore"
+        },
+        {
+            "source": "@eslint/eslintrc",
+            "target": "import-fresh"
+        },
+        {
+            "source": "@eslint/eslintrc",
+            "target": "js-yaml"
+        },
+        {
+            "source": "@eslint/eslintrc",
+            "target": "minimatch"
+        },
+        {
+            "source": "@eslint/eslintrc",
+            "target": "strip-json-comments"
+        },
+        {
+            "source": "@typescript-eslint/eslint-plugin",
+            "target": "ignore"
+        },
+        {
+            "source": "@typescript-eslint/eslint-plugin",
+            "target": "graphemer"
+        },
+        {
+            "source": "@typescript-eslint/eslint-plugin",
+            "target": "ts-api-utils"
+        },
+        {
+            "source": "@typescript-eslint/eslint-plugin",
+            "target": "natural-compare"
+        },
+        {
+            "source": "@typescript-eslint/eslint-plugin",
+            "target": "@typescript-eslint/utils"
+        },
+        {
+            "source": "@typescript-eslint/eslint-plugin",
+            "target": "@eslint-community/regexpp"
+        },
+        {
+            "source": "@typescript-eslint/eslint-plugin",
+            "target": "@typescript-eslint/type-utils"
+        },
+        {
+            "source": "@typescript-eslint/eslint-plugin",
+            "target": "@typescript-eslint/visitor-keys"
+        },
+        {
+            "source": "@typescript-eslint/eslint-plugin",
+            "target": "@typescript-eslint/scope-manager"
+        },
+        {
+            "source": "@typescript-eslint/parser",
+            "target": "debug"
+        },
+        {
+            "source": "@typescript-eslint/parser",
+            "target": "@typescript-eslint/types"
+        },
+        {
+            "source": "@typescript-eslint/parser",
+            "target": "@typescript-eslint/visitor-keys"
+        },
+        {
+            "source": "@typescript-eslint/parser",
+            "target": "@typescript-eslint/scope-manager"
+        },
+        {
+            "source": "@typescript-eslint/parser",
+            "target": "@typescript-eslint/typescript-estree"
+        },
+        {
+            "source": "cosmiconfig",
+            "target": "env-paths"
+        },
+        {
+            "source": "cosmiconfig",
+            "target": "import-fresh"
+        },
+        {
+            "source": "cosmiconfig",
+            "target": "js-yaml"
+        },
+        {
+            "source": "cosmiconfig",
+            "target": "parse-json"
+        },
+        {
+            "source": "eslint",
+            "target": "@eslint-community/eslint-utils"
+        },
+        {
+            "source": "eslint",
+            "target": "@eslint-community/regexpp"
+        },
+        {
+            "source": "eslint",
+            "target": "@eslint/config-array"
+        },
+        {
+            "source": "eslint",
+            "target": "@eslint/core"
+        },
+        {
+            "source": "eslint",
+            "target": "@eslint/eslintrc"
+        },
+        {
+            "source": "eslint",
+            "target": "@eslint/js"
+        },
+        {
+            "source": "eslint",
+            "target": "@eslint/plugin-kit"
+        },
+        {
+            "source": "eslint",
+            "target": "@humanfs/node"
+        },
+        {
+            "source": "eslint",
+            "target": "@humanwhocodes/module-importer"
+        },
+        {
+            "source": "eslint",
+            "target": "@humanwhocodes/retry"
+        },
+        {
+            "source": "eslint",
+            "target": "@types/estree"
+        },
+        {
+            "source": "eslint",
+            "target": "@types/json-schema"
+        },
+        {
+            "source": "eslint",
+            "target": "ajv"
+        },
+        {
+            "source": "eslint",
+            "target": "chalk"
+        },
+        {
+            "source": "eslint",
+            "target": "cross-spawn"
+        },
+        {
+            "source": "eslint",
+            "target": "debug"
+        },
+        {
+            "source": "eslint",
+            "target": "escape-string-regexp"
+        },
+        {
+            "source": "eslint",
+            "target": "eslint-scope"
+        },
+        {
+            "source": "eslint",
+            "target": "eslint-visitor-keys"
+        },
+        {
+            "source": "eslint",
+            "target": "espree"
+        },
+        {
+            "source": "eslint",
+            "target": "esquery"
+        },
+        {
+            "source": "eslint",
+            "target": "esutils"
+        },
+        {
+            "source": "eslint",
+            "target": "fast-deep-equal"
+        },
+        {
+            "source": "eslint",
+            "target": "file-entry-cache"
+        },
+        {
+            "source": "eslint",
+            "target": "find-up"
+        },
+        {
+            "source": "eslint",
+            "target": "glob-parent"
+        },
+        {
+            "source": "eslint",
+            "target": "ignore"
+        },
+        {
+            "source": "eslint",
+            "target": "imurmurhash"
+        },
+        {
+            "source": "eslint",
+            "target": "is-glob"
+        },
+        {
+            "source": "eslint",
+            "target": "json-stable-stringify-without-jsonify"
+        },
+        {
+            "source": "eslint",
+            "target": "lodash.merge"
+        },
+        {
+            "source": "eslint",
+            "target": "minimatch"
+        },
+        {
+            "source": "eslint",
+            "target": "natural-compare"
+        },
+        {
+            "source": "eslint",
+            "target": "optionator"
+        },
+        {
+            "source": "eslint-config-xo",
+            "target": "@stylistic/eslint-plugin"
+        },
+        {
+            "source": "eslint-config-xo",
+            "target": "confusing-browser-globals"
+        },
+        {
+            "source": "eslint-config-xo",
+            "target": "globals"
+        },
+        {
+            "source": "eslint-config-xo-typescript",
+            "target": "@stylistic/eslint-plugin"
+        },
+        {
+            "source": "eslint-config-xo-typescript",
+            "target": "eslint-config-xo"
+        },
+        {
+            "source": "eslint-config-xo-typescript",
+            "target": "typescript-eslint"
+        },
+        {
+            "source": "eslint-formatter-pretty",
+            "target": "@types/eslint"
+        },
+        {
+            "source": "eslint-formatter-pretty",
+            "target": "ansi-escapes"
+        },
+        {
+            "source": "eslint-formatter-pretty",
+            "target": "chalk"
+        },
+        {
+            "source": "eslint-formatter-pretty",
+            "target": "eslint-rule-docs"
+        },
+        {
+            "source": "eslint-formatter-pretty",
+            "target": "log-symbols"
+        },
+        {
+            "source": "eslint-formatter-pretty",
+            "target": "plur"
+        },
+        {
+            "source": "eslint-formatter-pretty",
+            "target": "string-width"
+        },
+        {
+            "source": "eslint-formatter-pretty",
+            "target": "supports-hyperlinks"
+        },
+        {
+            "source": "eslint-import-resolver-webpack",
+            "target": "debug"
+        },
+        {
+            "source": "eslint-import-resolver-webpack",
+            "target": "enhanced-resolve"
+        },
+        {
+            "source": "eslint-import-resolver-webpack",
+            "target": "find-root"
+        },
+        {
+            "source": "eslint-import-resolver-webpack",
+            "target": "hasown"
+        },
+        {
+            "source": "eslint-import-resolver-webpack",
+            "target": "interpret"
+        },
+        {
+            "source": "eslint-import-resolver-webpack",
+            "target": "is-core-module"
+        },
+        {
+            "source": "eslint-import-resolver-webpack",
+            "target": "is-regex"
+        },
+        {
+            "source": "eslint-import-resolver-webpack",
+            "target": "lodash"
+        },
+        {
+            "source": "eslint-import-resolver-webpack",
+            "target": "resolve"
+        },
+        {
+            "source": "eslint-import-resolver-webpack",
+            "target": "semver"
+        },
+        {
+            "source": "eslint-plugin-ava",
+            "target": "enhance-visitors"
+        },
+        {
+            "source": "eslint-plugin-ava",
+            "target": "eslint-utils"
+        },
+        {
+            "source": "eslint-plugin-ava",
+            "target": "espree"
+        },
+        {
+            "source": "eslint-plugin-ava",
+            "target": "espurify"
+        },
+        {
+            "source": "eslint-plugin-ava",
+            "target": "import-modules"
+        },
+        {
+            "source": "eslint-plugin-ava",
+            "target": "micro-spelling-correcter"
+        },
+        {
+            "source": "eslint-plugin-ava",
+            "target": "pkg-dir"
+        },
+        {
+            "source": "eslint-plugin-ava",
+            "target": "resolve-from"
+        },
+        {
+            "source": "eslint-plugin-eslint-comments",
+            "target": "escape-string-regexp"
+        },
+        {
+            "source": "eslint-plugin-eslint-comments",
+            "target": "ignore"
+        },
+        {
+            "source": "eslint-plugin-import",
+            "target": "@rtsao/scc"
+        },
+        {
+            "source": "eslint-plugin-import",
+            "target": "array-includes"
+        },
+        {
+            "source": "eslint-plugin-import",
+            "target": "array.prototype.findlastindex"
+        },
+        {
+            "source": "eslint-plugin-import",
+            "target": "array.prototype.flat"
+        },
+        {
+            "source": "eslint-plugin-import",
+            "target": "array.prototype.flatmap"
+        },
+        {
+            "source": "eslint-plugin-import",
+            "target": "debug"
+        },
+        {
+            "source": "eslint-plugin-import",
+            "target": "doctrine"
+        },
+        {
+            "source": "eslint-plugin-import",
+            "target": "eslint-import-resolver-node"
+        },
+        {
+            "source": "eslint-plugin-import",
+            "target": "eslint-module-utils"
+        },
+        {
+            "source": "eslint-plugin-import",
+            "target": "hasown"
+        },
+        {
+            "source": "eslint-plugin-import",
+            "target": "is-core-module"
+        },
+        {
+            "source": "eslint-plugin-import",
+            "target": "is-glob"
+        },
+        {
+            "source": "eslint-plugin-import",
+            "target": "minimatch"
+        },
+        {
+            "source": "eslint-plugin-import",
+            "target": "object.fromentries"
+        },
+        {
+            "source": "eslint-plugin-import",
+            "target": "object.groupby"
+        },
+        {
+            "source": "eslint-plugin-import",
+            "target": "object.values"
+        },
+        {
+            "source": "eslint-plugin-import",
+            "target": "semver"
+        },
+        {
+            "source": "eslint-plugin-import",
+            "target": "string.prototype.trimend"
+        },
+        {
+            "source": "eslint-plugin-import",
+            "target": "tsconfig-paths"
+        },
+        {
+            "source": "eslint-plugin-n",
+            "target": "@eslint-community/eslint-utils"
+        },
+        {
+            "source": "eslint-plugin-n",
+            "target": "enhanced-resolve"
+        },
+        {
+            "source": "eslint-plugin-n",
+            "target": "eslint-plugin-es-x"
+        },
+        {
+            "source": "eslint-plugin-n",
+            "target": "get-tsconfig"
+        },
+        {
+            "source": "eslint-plugin-n",
+            "target": "globals"
+        },
+        {
+            "source": "eslint-plugin-n",
+            "target": "ignore"
+        },
+        {
+            "source": "eslint-plugin-n",
+            "target": "minimatch"
+        },
+        {
+            "source": "eslint-plugin-n",
+            "target": "semver"
+        },
+        {
+            "source": "eslint-plugin-no-use-extend-native",
+            "target": "is-get-set-prop"
+        },
+        {
+            "source": "eslint-plugin-no-use-extend-native",
+            "target": "is-js-type"
+        },
+        {
+            "source": "eslint-plugin-no-use-extend-native",
+            "target": "is-obj-prop"
+        },
+        {
+            "source": "eslint-plugin-no-use-extend-native",
+            "target": "is-proto-prop"
+        },
+        {
+            "source": "eslint-plugin-prettier",
+            "target": "prettier-linter-helpers"
+        },
+        {
+            "source": "eslint-plugin-prettier",
+            "target": "synckit"
+        },
+        {
+            "source": "eslint-plugin-promise",
+            "target": "@eslint-community/eslint-utils"
+        },
+        {
+            "source": "eslint-plugin-unicorn",
+            "target": "@babel/helper-validator-identifier"
+        },
+        {
+            "source": "eslint-plugin-unicorn",
+            "target": "@eslint-community/eslint-utils"
+        },
+        {
+            "source": "eslint-plugin-unicorn",
+            "target": "ci-info"
+        },
+        {
+            "source": "eslint-plugin-unicorn",
+            "target": "clean-regexp"
+        },
+        {
+            "source": "eslint-plugin-unicorn",
+            "target": "core-js-compat"
+        },
+        {
+            "source": "eslint-plugin-unicorn",
+            "target": "esquery"
+        },
+        {
+            "source": "eslint-plugin-unicorn",
+            "target": "globals"
+        },
+        {
+            "source": "eslint-plugin-unicorn",
+            "target": "indent-string"
+        },
+        {
+            "source": "eslint-plugin-unicorn",
+            "target": "is-builtin-module"
+        },
+        {
+            "source": "eslint-plugin-unicorn",
+            "target": "jsesc"
+        },
+        {
+            "source": "eslint-plugin-unicorn",
+            "target": "pluralize"
+        },
+        {
+            "source": "eslint-plugin-unicorn",
+            "target": "read-pkg-up"
+        },
+        {
+            "source": "eslint-plugin-unicorn",
+            "target": "regexp-tree"
+        },
+        {
+            "source": "eslint-plugin-unicorn",
+            "target": "regjsparser"
+        },
+        {
+            "source": "eslint-plugin-unicorn",
+            "target": "semver"
+        },
+        {
+            "source": "eslint-plugin-unicorn",
+            "target": "strip-indent"
+        },
+        {
+            "source": "esm-utils",
+            "target": "import-meta-resolve"
+        },
+        {
+            "source": "esm-utils",
+            "target": "url-or-path"
+        },
+        {
+            "source": "find-cache-dir",
+            "target": "common-path-prefix"
+        },
+        {
+            "source": "find-cache-dir",
+            "target": "pkg-dir"
+        },
+        {
+            "source": "get-tsconfig",
+            "target": "resolve-pkg-maps"
+        },
+        {
+            "source": "globby",
+            "target": "@sindresorhus/merge-streams"
+        },
+        {
+            "source": "globby",
+            "target": "fast-glob"
+        },
+        {
+            "source": "globby",
+            "target": "ignore"
+        },
+        {
+            "source": "globby",
+            "target": "path-type"
+        },
+        {
+            "source": "globby",
+            "target": "slash"
+        },
+        {
+            "source": "globby",
+            "target": "unicorn-magic"
+        },
+        {
+            "source": "micromatch",
+            "target": "braces"
+        },
+        {
+            "source": "micromatch",
+            "target": "picomatch"
+        },
+        {
+            "source": "open-editor",
+            "target": "env-editor"
+        },
+        {
+            "source": "open-editor",
+            "target": "execa"
+        },
+        {
+            "source": "open-editor",
+            "target": "line-column-path"
+        },
+        {
+            "source": "open-editor",
+            "target": "open"
+        },
+        {
+            "source": "to-absolute-glob",
+            "target": "is-absolute"
+        },
+        {
+            "source": "to-absolute-glob",
+            "target": "is-negated-glob"
+        },
+        {
+            "source": "ajv",
+            "target": "fast-deep-equal"
+        },
+        {
+            "source": "ajv",
+            "target": "fast-uri"
+        },
+        {
+            "source": "ajv",
+            "target": "json-schema-traverse"
+        },
+        {
+            "source": "ajv",
+            "target": "require-from-string"
+        },
+        {
+            "source": "debug",
+            "target": "ms"
+        },
+        {
+            "source": "espree",
+            "target": "acorn"
+        },
+        {
+            "source": "espree",
+            "target": "acorn-jsx"
+        },
+        {
+            "source": "espree",
+            "target": "eslint-visitor-keys"
+        },
+        {
+            "source": "import-fresh",
+            "target": "parent-module"
+        },
+        {
+            "source": "import-fresh",
+            "target": "resolve-from"
+        },
+        {
+            "source": "js-yaml",
+            "target": "argparse"
+        },
+        {
+            "source": "minimatch",
+            "target": "brace-expansion"
+        },
+        {
+            "source": "@typescript-eslint/utils",
+            "target": "@typescript-eslint/types"
+        },
+        {
+            "source": "@typescript-eslint/utils",
+            "target": "@eslint-community/eslint-utils"
+        },
+        {
+            "source": "@typescript-eslint/utils",
+            "target": "@typescript-eslint/scope-manager"
+        },
+        {
+            "source": "@typescript-eslint/utils",
+            "target": "@typescript-eslint/typescript-estree"
+        },
+        {
+            "source": "@typescript-eslint/type-utils",
+            "target": "debug"
+        },
+        {
+            "source": "@typescript-eslint/type-utils",
+            "target": "ts-api-utils"
+        },
+        {
+            "source": "@typescript-eslint/type-utils",
+            "target": "@typescript-eslint/utils"
+        },
+        {
+            "source": "@typescript-eslint/type-utils",
+            "target": "@typescript-eslint/typescript-estree"
+        },
+        {
+            "source": "@typescript-eslint/visitor-keys",
+            "target": "eslint-visitor-keys"
+        },
+        {
+            "source": "@typescript-eslint/visitor-keys",
+            "target": "@typescript-eslint/types"
+        },
+        {
+            "source": "@typescript-eslint/scope-manager",
+            "target": "@typescript-eslint/types"
+        },
+        {
+            "source": "@typescript-eslint/scope-manager",
+            "target": "@typescript-eslint/visitor-keys"
+        },
+        {
+            "source": "@typescript-eslint/typescript-estree",
+            "target": "debug"
+        },
+        {
+            "source": "@typescript-eslint/typescript-estree",
+            "target": "semver"
+        },
+        {
+            "source": "@typescript-eslint/typescript-estree",
+            "target": "is-glob"
+        },
+        {
+            "source": "@typescript-eslint/typescript-estree",
+            "target": "fast-glob"
+        },
+        {
+            "source": "@typescript-eslint/typescript-estree",
+            "target": "minimatch"
+        },
+        {
+            "source": "@typescript-eslint/typescript-estree",
+            "target": "ts-api-utils"
+        },
+        {
+            "source": "@typescript-eslint/typescript-estree",
+            "target": "@typescript-eslint/types"
+        },
+        {
+            "source": "@typescript-eslint/typescript-estree",
+            "target": "@typescript-eslint/visitor-keys"
+        },
+        {
+            "source": "parse-json",
+            "target": "@babel/code-frame"
+        },
+        {
+            "source": "parse-json",
+            "target": "index-to-position"
+        },
+        {
+            "source": "parse-json",
+            "target": "type-fest"
+        },
+        {
+            "source": "@eslint-community/eslint-utils",
+            "target": "eslint-visitor-keys"
+        },
+        {
+            "source": "@eslint/config-array",
+            "target": "@eslint/object-schema"
+        },
+        {
+            "source": "@eslint/config-array",
+            "target": "debug"
+        },
+        {
+            "source": "@eslint/config-array",
+            "target": "minimatch"
+        },
+        {
+            "source": "@eslint/core",
+            "target": "@types/json-schema"
+        },
+        {
+            "source": "@eslint/plugin-kit",
+            "target": "levn"
+        },
+        {
+            "source": "@humanfs/node",
+            "target": "@humanwhocodes/retry"
+        },
+        {
+            "source": "@humanfs/node",
+            "target": "@humanfs/core"
+        },
+        {
+            "source": "cross-spawn",
+            "target": "which"
+        },
+        {
+            "source": "cross-spawn",
+            "target": "path-key"
+        },
+        {
+            "source": "cross-spawn",
+            "target": "shebang-command"
+        },
+        {
+            "source": "eslint-scope",
+            "target": "esrecurse"
+        },
+        {
+            "source": "eslint-scope",
+            "target": "estraverse"
+        },
+        {
+            "source": "esquery",
+            "target": "estraverse"
+        },
+        {
+            "source": "file-entry-cache",
+            "target": "flat-cache"
+        },
+        {
+            "source": "find-up",
+            "target": "locate-path"
+        },
+        {
+            "source": "find-up",
+            "target": "path-exists"
+        },
+        {
+            "source": "find-up",
+            "target": "unicorn-magic"
+        },
+        {
+            "source": "glob-parent",
+            "target": "is-glob"
+        },
+        {
+            "source": "is-glob",
+            "target": "is-extglob"
+        },
+        {
+            "source": "optionator",
+            "target": "prelude-ls"
+        },
+        {
+            "source": "optionator",
+            "target": "deep-is"
+        },
+        {
+            "source": "optionator",
+            "target": "word-wrap"
+        },
+        {
+            "source": "optionator",
+            "target": "type-check"
+        },
+        {
+            "source": "optionator",
+            "target": "levn"
+        },
+        {
+            "source": "optionator",
+            "target": "fast-levenshtein"
+        },
+        {
+            "source": "@stylistic/eslint-plugin",
+            "target": "@typescript-eslint/utils"
+        },
+        {
+            "source": "@stylistic/eslint-plugin",
+            "target": "eslint-visitor-keys"
+        },
+        {
+            "source": "@stylistic/eslint-plugin",
+            "target": "espree"
+        },
+        {
+            "source": "@stylistic/eslint-plugin",
+            "target": "estraverse"
+        },
+        {
+            "source": "@stylistic/eslint-plugin",
+            "target": "picomatch"
+        },
+        {
+            "source": "typescript-eslint",
+            "target": "@typescript-eslint/utils"
+        },
+        {
+            "source": "typescript-eslint",
+            "target": "@typescript-eslint/parser"
+        },
+        {
+            "source": "typescript-eslint",
+            "target": "@typescript-eslint/eslint-plugin"
+        },
+        {
+            "source": "@types/eslint",
+            "target": "@types/estree"
+        },
+        {
+            "source": "@types/eslint",
+            "target": "@types/json-schema"
+        },
+        {
+            "source": "ansi-escapes",
+            "target": "environment"
+        },
+        {
+            "source": "log-symbols",
+            "target": "is-unicode-supported"
+        },
+        {
+            "source": "log-symbols",
+            "target": "yoctocolors"
+        },
+        {
+            "source": "plur",
+            "target": "irregular-plurals"
+        },
+        {
+            "source": "string-width",
+            "target": "emoji-regex"
+        },
+        {
+            "source": "string-width",
+            "target": "get-east-asian-width"
+        },
+        {
+            "source": "string-width",
+            "target": "strip-ansi"
+        },
+        {
+            "source": "supports-hyperlinks",
+            "target": "has-flag"
+        },
+        {
+            "source": "supports-hyperlinks",
+            "target": "supports-color"
+        },
+        {
+            "source": "enhanced-resolve",
+            "target": "graceful-fs"
+        },
+        {
+            "source": "enhanced-resolve",
+            "target": "tapable"
+        },
+        {
+            "source": "hasown",
+            "target": "function-bind"
+        },
+        {
+            "source": "is-core-module",
+            "target": "hasown"
+        },
+        {
+            "source": "is-regex",
+            "target": "call-bound"
+        },
+        {
+            "source": "is-regex",
+            "target": "gopd"
+        },
+        {
+            "source": "is-regex",
+            "target": "has-tostringtag"
+        },
+        {
+            "source": "is-regex",
+            "target": "hasown"
+        },
+        {
+            "source": "resolve",
+            "target": "is-core-module"
+        },
+        {
+            "source": "resolve",
+            "target": "path-parse"
+        },
+        {
+            "source": "resolve",
+            "target": "supports-preserve-symlinks-flag"
+        },
+        {
+            "source": "enhance-visitors",
+            "target": "lodash"
+        },
+        {
+            "source": "eslint-utils",
+            "target": "eslint-visitor-keys"
+        },
+        {
+            "source": "pkg-dir",
+            "target": "find-up-simple"
+        },
+        {
+            "source": "array-includes",
+            "target": "call-bind"
+        },
+        {
+            "source": "array-includes",
+            "target": "define-properties"
+        },
+        {
+            "source": "array-includes",
+            "target": "es-abstract"
+        },
+        {
+            "source": "array-includes",
+            "target": "es-object-atoms"
+        },
+        {
+            "source": "array-includes",
+            "target": "get-intrinsic"
+        },
+        {
+            "source": "array-includes",
+            "target": "is-string"
+        },
+        {
+            "source": "array.prototype.findlastindex",
+            "target": "call-bind"
+        },
+        {
+            "source": "array.prototype.findlastindex",
+            "target": "define-properties"
+        },
+        {
+            "source": "array.prototype.findlastindex",
+            "target": "es-abstract"
+        },
+        {
+            "source": "array.prototype.findlastindex",
+            "target": "es-errors"
+        },
+        {
+            "source": "array.prototype.findlastindex",
+            "target": "es-object-atoms"
+        },
+        {
+            "source": "array.prototype.findlastindex",
+            "target": "es-shim-unscopables"
+        },
+        {
+            "source": "array.prototype.flat",
+            "target": "call-bind"
+        },
+        {
+            "source": "array.prototype.flat",
+            "target": "define-properties"
+        },
+        {
+            "source": "array.prototype.flat",
+            "target": "es-abstract"
+        },
+        {
+            "source": "array.prototype.flat",
+            "target": "es-shim-unscopables"
+        },
+        {
+            "source": "array.prototype.flatmap",
+            "target": "call-bind"
+        },
+        {
+            "source": "array.prototype.flatmap",
+            "target": "define-properties"
+        },
+        {
+            "source": "array.prototype.flatmap",
+            "target": "es-abstract"
+        },
+        {
+            "source": "array.prototype.flatmap",
+            "target": "es-shim-unscopables"
+        },
+        {
+            "source": "doctrine",
+            "target": "esutils"
+        },
+        {
+            "source": "eslint-import-resolver-node",
+            "target": "debug"
+        },
+        {
+            "source": "eslint-import-resolver-node",
+            "target": "is-core-module"
+        },
+        {
+            "source": "eslint-import-resolver-node",
+            "target": "resolve"
+        },
+        {
+            "source": "eslint-module-utils",
+            "target": "debug"
+        },
+        {
+            "source": "object.fromentries",
+            "target": "call-bind"
+        },
+        {
+            "source": "object.fromentries",
+            "target": "define-properties"
+        },
+        {
+            "source": "object.fromentries",
+            "target": "es-abstract"
+        },
+        {
+            "source": "object.fromentries",
+            "target": "es-object-atoms"
+        },
+        {
+            "source": "object.groupby",
+            "target": "call-bind"
+        },
+        {
+            "source": "object.groupby",
+            "target": "define-properties"
+        },
+        {
+            "source": "object.groupby",
+            "target": "es-abstract"
+        },
+        {
+            "source": "object.values",
+            "target": "call-bind"
+        },
+        {
+            "source": "object.values",
+            "target": "call-bound"
+        },
+        {
+            "source": "object.values",
+            "target": "define-properties"
+        },
+        {
+            "source": "object.values",
+            "target": "es-object-atoms"
+        },
+        {
+            "source": "string.prototype.trimend",
+            "target": "call-bind"
+        },
+        {
+            "source": "string.prototype.trimend",
+            "target": "call-bound"
+        },
+        {
+            "source": "string.prototype.trimend",
+            "target": "define-properties"
+        },
+        {
+            "source": "string.prototype.trimend",
+            "target": "es-object-atoms"
+        },
+        {
+            "source": "tsconfig-paths",
+            "target": "json5"
+        },
+        {
+            "source": "tsconfig-paths",
+            "target": "minimist"
+        },
+        {
+            "source": "tsconfig-paths",
+            "target": "strip-bom"
+        },
+        {
+            "source": "eslint-plugin-es-x",
+            "target": "@eslint-community/eslint-utils"
+        },
+        {
+            "source": "eslint-plugin-es-x",
+            "target": "@eslint-community/regexpp"
+        },
+        {
+            "source": "eslint-plugin-es-x",
+            "target": "eslint-compat-utils"
+        },
+        {
+            "source": "is-get-set-prop",
+            "target": "get-set-props"
+        },
+        {
+            "source": "is-get-set-prop",
+            "target": "lowercase-keys"
+        },
+        {
+            "source": "is-js-type",
+            "target": "js-types"
+        },
+        {
+            "source": "is-obj-prop",
+            "target": "lowercase-keys"
+        },
+        {
+            "source": "is-obj-prop",
+            "target": "obj-props"
+        },
+        {
+            "source": "is-proto-prop",
+            "target": "lowercase-keys"
+        },
+        {
+            "source": "is-proto-prop",
+            "target": "prototype-properties"
+        },
+        {
+            "source": "prettier-linter-helpers",
+            "target": "fast-diff"
+        },
+        {
+            "source": "synckit",
+            "target": "@pkgr/core"
+        },
+        {
+            "source": "synckit",
+            "target": "tslib"
+        },
+        {
+            "source": "clean-regexp",
+            "target": "escape-string-regexp"
+        },
+        {
+            "source": "core-js-compat",
+            "target": "browserslist"
+        },
+        {
+            "source": "is-builtin-module",
+            "target": "builtin-modules"
+        },
+        {
+            "source": "read-pkg-up",
+            "target": "find-up-simple"
+        },
+        {
+            "source": "read-pkg-up",
+            "target": "read-pkg"
+        },
+        {
+            "source": "read-pkg-up",
+            "target": "type-fest"
+        },
+        {
+            "source": "regjsparser",
+            "target": "jsesc"
+        },
+        {
+            "source": "strip-indent",
+            "target": "min-indent"
+        },
+        {
+            "source": "fast-glob",
+            "target": "@nodelib/fs.stat"
+        },
+        {
+            "source": "fast-glob",
+            "target": "@nodelib/fs.walk"
+        },
+        {
+            "source": "fast-glob",
+            "target": "glob-parent"
+        },
+        {
+            "source": "fast-glob",
+            "target": "merge2"
+        },
+        {
+            "source": "fast-glob",
+            "target": "micromatch"
+        },
+        {
+            "source": "braces",
+            "target": "fill-range"
+        },
+        {
+            "source": "execa",
+            "target": "@sindresorhus/merge-streams"
+        },
+        {
+            "source": "execa",
+            "target": "cross-spawn"
+        },
+        {
+            "source": "execa",
+            "target": "figures"
+        },
+        {
+            "source": "execa",
+            "target": "get-stream"
+        },
+        {
+            "source": "execa",
+            "target": "human-signals"
+        },
+        {
+            "source": "execa",
+            "target": "is-plain-obj"
+        },
+        {
+            "source": "execa",
+            "target": "is-stream"
+        },
+        {
+            "source": "execa",
+            "target": "npm-run-path"
+        },
+        {
+            "source": "execa",
+            "target": "pretty-ms"
+        },
+        {
+            "source": "execa",
+            "target": "signal-exit"
+        },
+        {
+            "source": "execa",
+            "target": "strip-final-newline"
+        },
+        {
+            "source": "execa",
+            "target": "yoctocolors"
+        },
+        {
+            "source": "line-column-path",
+            "target": "type-fest"
+        },
+        {
+            "source": "open",
+            "target": "default-browser"
+        },
+        {
+            "source": "open",
+            "target": "define-lazy-prop"
+        },
+        {
+            "source": "open",
+            "target": "is-inside-container"
+        },
+        {
+            "source": "open",
+            "target": "is-wsl"
+        },
+        {
+            "source": "is-absolute",
+            "target": "is-relative"
+        },
+        {
+            "source": "is-absolute",
+            "target": "is-windows"
+        },
+        {
+            "source": "parent-module",
+            "target": "callsites"
+        },
+        {
+            "source": "brace-expansion",
+            "target": "balanced-match"
+        },
+        {
+            "source": "@babel/code-frame",
+            "target": "js-tokens"
+        },
+        {
+            "source": "@babel/code-frame",
+            "target": "picocolors"
+        },
+        {
+            "source": "@babel/code-frame",
+            "target": "@babel/helper-validator-identifier"
+        },
+        {
+            "source": "levn",
+            "target": "prelude-ls"
+        },
+        {
+            "source": "levn",
+            "target": "type-check"
+        },
+        {
+            "source": "which",
+            "target": "isexe"
+        },
+        {
+            "source": "shebang-command",
+            "target": "shebang-regex"
+        },
+        {
+            "source": "esrecurse",
+            "target": "estraverse"
+        },
+        {
+            "source": "flat-cache",
+            "target": "flatted"
+        },
+        {
+            "source": "flat-cache",
+            "target": "hookified"
+        },
+        {
+            "source": "flat-cache",
+            "target": "cacheable"
+        },
+        {
+            "source": "locate-path",
+            "target": "p-locate"
+        },
+        {
+            "source": "type-check",
+            "target": "prelude-ls"
+        },
+        {
+            "source": "fast-levenshtein",
+            "target": "fastest-levenshtein"
+        },
+        {
+            "source": "strip-ansi",
+            "target": "ansi-regex"
+        },
+        {
+            "source": "call-bound",
+            "target": "call-bind-apply-helpers"
+        },
+        {
+            "source": "call-bound",
+            "target": "get-intrinsic"
+        },
+        {
+            "source": "has-tostringtag",
+            "target": "has-symbols"
+        },
+        {
+            "source": "call-bind",
+            "target": "call-bind-apply-helpers"
+        },
+        {
+            "source": "call-bind",
+            "target": "es-define-property"
+        },
+        {
+            "source": "call-bind",
+            "target": "get-intrinsic"
+        },
+        {
+            "source": "call-bind",
+            "target": "set-function-length"
+        },
+        {
+            "source": "define-properties",
+            "target": "define-data-property"
+        },
+        {
+            "source": "define-properties",
+            "target": "has-property-descriptors"
+        },
+        {
+            "source": "define-properties",
+            "target": "object-keys"
+        },
+        {
+            "source": "es-abstract",
+            "target": "array-buffer-byte-length"
+        },
+        {
+            "source": "es-abstract",
+            "target": "arraybuffer.prototype.slice"
+        },
+        {
+            "source": "es-abstract",
+            "target": "available-typed-arrays"
+        },
+        {
+            "source": "es-abstract",
+            "target": "call-bind"
+        },
+        {
+            "source": "es-abstract",
+            "target": "call-bound"
+        },
+        {
+            "source": "es-abstract",
+            "target": "data-view-buffer"
+        },
+        {
+            "source": "es-abstract",
+            "target": "data-view-byte-length"
+        },
+        {
+            "source": "es-abstract",
+            "target": "data-view-byte-offset"
+        },
+        {
+            "source": "es-abstract",
+            "target": "es-define-property"
+        },
+        {
+            "source": "es-abstract",
+            "target": "es-errors"
+        },
+        {
+            "source": "es-abstract",
+            "target": "es-object-atoms"
+        },
+        {
+            "source": "es-abstract",
+            "target": "es-set-tostringtag"
+        },
+        {
+            "source": "es-abstract",
+            "target": "es-to-primitive"
+        },
+        {
+            "source": "es-abstract",
+            "target": "function.prototype.name"
+        },
+        {
+            "source": "es-abstract",
+            "target": "get-intrinsic"
+        },
+        {
+            "source": "es-abstract",
+            "target": "get-proto"
+        },
+        {
+            "source": "es-abstract",
+            "target": "get-symbol-description"
+        },
+        {
+            "source": "es-abstract",
+            "target": "globalthis"
+        },
+        {
+            "source": "es-abstract",
+            "target": "gopd"
+        },
+        {
+            "source": "es-abstract",
+            "target": "has-property-descriptors"
+        },
+        {
+            "source": "es-abstract",
+            "target": "has-proto"
+        },
+        {
+            "source": "es-abstract",
+            "target": "has-symbols"
+        },
+        {
+            "source": "es-abstract",
+            "target": "hasown"
+        },
+        {
+            "source": "es-abstract",
+            "target": "internal-slot"
+        },
+        {
+            "source": "es-abstract",
+            "target": "is-array-buffer"
+        },
+        {
+            "source": "es-abstract",
+            "target": "is-callable"
+        },
+        {
+            "source": "es-abstract",
+            "target": "is-data-view"
+        },
+        {
+            "source": "es-abstract",
+            "target": "is-regex"
+        },
+        {
+            "source": "es-abstract",
+            "target": "is-shared-array-buffer"
+        },
+        {
+            "source": "es-abstract",
+            "target": "is-string"
+        },
+        {
+            "source": "es-abstract",
+            "target": "is-typed-array"
+        },
+        {
+            "source": "es-abstract",
+            "target": "is-weakref"
+        },
+        {
+            "source": "es-abstract",
+            "target": "math-intrinsics"
+        },
+        {
+            "source": "es-abstract",
+            "target": "object-inspect"
+        },
+        {
+            "source": "es-abstract",
+            "target": "object-keys"
+        },
+        {
+            "source": "es-abstract",
+            "target": "object.assign"
+        },
+        {
+            "source": "es-abstract",
+            "target": "own-keys"
+        },
+        {
+            "source": "es-abstract",
+            "target": "regexp.prototype.flags"
+        },
+        {
+            "source": "es-abstract",
+            "target": "safe-array-concat"
+        },
+        {
+            "source": "es-abstract",
+            "target": "safe-push-apply"
+        },
+        {
+            "source": "es-abstract",
+            "target": "safe-regex-test"
+        },
+        {
+            "source": "es-abstract",
+            "target": "set-proto"
+        },
+        {
+            "source": "es-abstract",
+            "target": "string.prototype.trim"
+        },
+        {
+            "source": "es-abstract",
+            "target": "string.prototype.trimend"
+        },
+        {
+            "source": "es-abstract",
+            "target": "string.prototype.trimstart"
+        },
+        {
+            "source": "es-abstract",
+            "target": "typed-array-buffer"
+        },
+        {
+            "source": "es-abstract",
+            "target": "typed-array-byte-length"
+        },
+        {
+            "source": "es-abstract",
+            "target": "typed-array-byte-offset"
+        },
+        {
+            "source": "es-abstract",
+            "target": "typed-array-length"
+        },
+        {
+            "source": "es-abstract",
+            "target": "unbox-primitive"
+        },
+        {
+            "source": "es-abstract",
+            "target": "which-typed-array"
+        },
+        {
+            "source": "es-object-atoms",
+            "target": "es-errors"
+        },
+        {
+            "source": "get-intrinsic",
+            "target": "call-bind-apply-helpers"
+        },
+        {
+            "source": "get-intrinsic",
+            "target": "es-define-property"
+        },
+        {
+            "source": "get-intrinsic",
+            "target": "es-errors"
+        },
+        {
+            "source": "get-intrinsic",
+            "target": "es-object-atoms"
+        },
+        {
+            "source": "get-intrinsic",
+            "target": "function-bind"
+        },
+        {
+            "source": "get-intrinsic",
+            "target": "get-proto"
+        },
+        {
+            "source": "get-intrinsic",
+            "target": "gopd"
+        },
+        {
+            "source": "get-intrinsic",
+            "target": "has-symbols"
+        },
+        {
+            "source": "get-intrinsic",
+            "target": "hasown"
+        },
+        {
+            "source": "get-intrinsic",
+            "target": "math-intrinsics"
+        },
+        {
+            "source": "is-string",
+            "target": "call-bound"
+        },
+        {
+            "source": "is-string",
+            "target": "has-tostringtag"
+        },
+        {
+            "source": "es-shim-unscopables",
+            "target": "hasown"
+        },
+        {
+            "source": "eslint-compat-utils",
+            "target": "semver"
+        },
+        {
+            "source": "browserslist",
+            "target": "caniuse-lite"
+        },
+        {
+            "source": "browserslist",
+            "target": "electron-to-chromium"
+        },
+        {
+            "source": "browserslist",
+            "target": "node-releases"
+        },
+        {
+            "source": "browserslist",
+            "target": "update-browserslist-db"
+        },
+        {
+            "source": "read-pkg",
+            "target": "@types/normalize-package-data"
+        },
+        {
+            "source": "read-pkg",
+            "target": "normalize-package-data"
+        },
+        {
+            "source": "read-pkg",
+            "target": "parse-json"
+        },
+        {
+            "source": "read-pkg",
+            "target": "type-fest"
+        },
+        {
+            "source": "read-pkg",
+            "target": "unicorn-magic"
+        },
+        {
+            "source": "@nodelib/fs.walk",
+            "target": "@nodelib/fs.scandir"
+        },
+        {
+            "source": "@nodelib/fs.walk",
+            "target": "fastq"
+        },
+        {
+            "source": "fill-range",
+            "target": "to-regex-range"
+        },
+        {
+            "source": "figures",
+            "target": "is-unicode-supported"
+        },
+        {
+            "source": "get-stream",
+            "target": "@sec-ant/readable-stream"
+        },
+        {
+            "source": "get-stream",
+            "target": "is-stream"
+        },
+        {
+            "source": "npm-run-path",
+            "target": "path-key"
+        },
+        {
+            "source": "npm-run-path",
+            "target": "unicorn-magic"
+        },
+        {
+            "source": "pretty-ms",
+            "target": "parse-ms"
+        },
+        {
+            "source": "default-browser",
+            "target": "bundle-name"
+        },
+        {
+            "source": "default-browser",
+            "target": "default-browser-id"
+        },
+        {
+            "source": "is-inside-container",
+            "target": "is-docker"
+        },
+        {
+            "source": "is-wsl",
+            "target": "is-inside-container"
+        },
+        {
+            "source": "is-relative",
+            "target": "is-unc-path"
+        },
+        {
+            "source": "cacheable",
+            "target": "hookified"
+        },
+        {
+            "source": "cacheable",
+            "target": "keyv"
+        },
+        {
+            "source": "p-locate",
+            "target": "p-limit"
+        },
+        {
+            "source": "call-bind-apply-helpers",
+            "target": "es-errors"
+        },
+        {
+            "source": "call-bind-apply-helpers",
+            "target": "function-bind"
+        },
+        {
+            "source": "set-function-length",
+            "target": "define-data-property"
+        },
+        {
+            "source": "set-function-length",
+            "target": "es-errors"
+        },
+        {
+            "source": "set-function-length",
+            "target": "function-bind"
+        },
+        {
+            "source": "set-function-length",
+            "target": "get-intrinsic"
+        },
+        {
+            "source": "set-function-length",
+            "target": "gopd"
+        },
+        {
+            "source": "set-function-length",
+            "target": "has-property-descriptors"
+        },
+        {
+            "source": "define-data-property",
+            "target": "es-define-property"
+        },
+        {
+            "source": "define-data-property",
+            "target": "es-errors"
+        },
+        {
+            "source": "define-data-property",
+            "target": "gopd"
+        },
+        {
+            "source": "has-property-descriptors",
+            "target": "es-define-property"
+        },
+        {
+            "source": "array-buffer-byte-length",
+            "target": "call-bound"
+        },
+        {
+            "source": "array-buffer-byte-length",
+            "target": "is-array-buffer"
+        },
+        {
+            "source": "arraybuffer.prototype.slice",
+            "target": "array-buffer-byte-length"
+        },
+        {
+            "source": "arraybuffer.prototype.slice",
+            "target": "call-bind"
+        },
+        {
+            "source": "arraybuffer.prototype.slice",
+            "target": "define-properties"
+        },
+        {
+            "source": "arraybuffer.prototype.slice",
+            "target": "es-abstract"
+        },
+        {
+            "source": "arraybuffer.prototype.slice",
+            "target": "es-errors"
+        },
+        {
+            "source": "arraybuffer.prototype.slice",
+            "target": "get-intrinsic"
+        },
+        {
+            "source": "arraybuffer.prototype.slice",
+            "target": "is-array-buffer"
+        },
+        {
+            "source": "available-typed-arrays",
+            "target": "possible-typed-array-names"
+        },
+        {
+            "source": "data-view-buffer",
+            "target": "call-bound"
+        },
+        {
+            "source": "data-view-buffer",
+            "target": "es-errors"
+        },
+        {
+            "source": "data-view-buffer",
+            "target": "is-data-view"
+        },
+        {
+            "source": "data-view-byte-length",
+            "target": "call-bound"
+        },
+        {
+            "source": "data-view-byte-length",
+            "target": "es-errors"
+        },
+        {
+            "source": "data-view-byte-length",
+            "target": "is-data-view"
+        },
+        {
+            "source": "data-view-byte-offset",
+            "target": "call-bound"
+        },
+        {
+            "source": "data-view-byte-offset",
+            "target": "es-errors"
+        },
+        {
+            "source": "data-view-byte-offset",
+            "target": "is-data-view"
+        },
+        {
+            "source": "es-set-tostringtag",
+            "target": "es-errors"
+        },
+        {
+            "source": "es-set-tostringtag",
+            "target": "get-intrinsic"
+        },
+        {
+            "source": "es-set-tostringtag",
+            "target": "has-tostringtag"
+        },
+        {
+            "source": "es-set-tostringtag",
+            "target": "hasown"
+        },
+        {
+            "source": "es-to-primitive",
+            "target": "is-callable"
+        },
+        {
+            "source": "es-to-primitive",
+            "target": "is-date-object"
+        },
+        {
+            "source": "es-to-primitive",
+            "target": "is-symbol"
+        },
+        {
+            "source": "function.prototype.name",
+            "target": "call-bind"
+        },
+        {
+            "source": "function.prototype.name",
+            "target": "call-bound"
+        },
+        {
+            "source": "function.prototype.name",
+            "target": "define-properties"
+        },
+        {
+            "source": "function.prototype.name",
+            "target": "functions-have-names"
+        },
+        {
+            "source": "function.prototype.name",
+            "target": "hasown"
+        },
+        {
+            "source": "function.prototype.name",
+            "target": "is-callable"
+        },
+        {
+            "source": "get-proto",
+            "target": "dunder-proto"
+        },
+        {
+            "source": "get-proto",
+            "target": "es-object-atoms"
+        },
+        {
+            "source": "get-symbol-description",
+            "target": "call-bound"
+        },
+        {
+            "source": "get-symbol-description",
+            "target": "es-errors"
+        },
+        {
+            "source": "get-symbol-description",
+            "target": "get-intrinsic"
+        },
+        {
+            "source": "globalthis",
+            "target": "define-properties"
+        },
+        {
+            "source": "globalthis",
+            "target": "gopd"
+        },
+        {
+            "source": "has-proto",
+            "target": "dunder-proto"
+        },
+        {
+            "source": "internal-slot",
+            "target": "es-errors"
+        },
+        {
+            "source": "internal-slot",
+            "target": "hasown"
+        },
+        {
+            "source": "internal-slot",
+            "target": "side-channel"
+        },
+        {
+            "source": "is-array-buffer",
+            "target": "call-bind"
+        },
+        {
+            "source": "is-array-buffer",
+            "target": "call-bound"
+        },
+        {
+            "source": "is-array-buffer",
+            "target": "get-intrinsic"
+        },
+        {
+            "source": "is-data-view",
+            "target": "call-bound"
+        },
+        {
+            "source": "is-data-view",
+            "target": "get-intrinsic"
+        },
+        {
+            "source": "is-data-view",
+            "target": "is-typed-array"
+        },
+        {
+            "source": "is-shared-array-buffer",
+            "target": "call-bound"
+        },
+        {
+            "source": "is-typed-array",
+            "target": "which-typed-array"
+        },
+        {
+            "source": "is-weakref",
+            "target": "call-bound"
+        },
+        {
+            "source": "object.assign",
+            "target": "call-bind"
+        },
+        {
+            "source": "object.assign",
+            "target": "call-bound"
+        },
+        {
+            "source": "object.assign",
+            "target": "define-properties"
+        },
+        {
+            "source": "object.assign",
+            "target": "es-object-atoms"
+        },
+        {
+            "source": "object.assign",
+            "target": "has-symbols"
+        },
+        {
+            "source": "object.assign",
+            "target": "object-keys"
+        },
+        {
+            "source": "own-keys",
+            "target": "get-intrinsic"
+        },
+        {
+            "source": "own-keys",
+            "target": "object-keys"
+        },
+        {
+            "source": "own-keys",
+            "target": "safe-push-apply"
+        },
+        {
+            "source": "regexp.prototype.flags",
+            "target": "call-bind"
+        },
+        {
+            "source": "regexp.prototype.flags",
+            "target": "define-properties"
+        },
+        {
+            "source": "regexp.prototype.flags",
+            "target": "es-errors"
+        },
+        {
+            "source": "regexp.prototype.flags",
+            "target": "get-proto"
+        },
+        {
+            "source": "regexp.prototype.flags",
+            "target": "gopd"
+        },
+        {
+            "source": "regexp.prototype.flags",
+            "target": "set-function-name"
+        },
+        {
+            "source": "safe-array-concat",
+            "target": "call-bind"
+        },
+        {
+            "source": "safe-array-concat",
+            "target": "call-bound"
+        },
+        {
+            "source": "safe-array-concat",
+            "target": "get-intrinsic"
+        },
+        {
+            "source": "safe-array-concat",
+            "target": "has-symbols"
+        },
+        {
+            "source": "safe-array-concat",
+            "target": "isarray"
+        },
+        {
+            "source": "safe-push-apply",
+            "target": "es-errors"
+        },
+        {
+            "source": "safe-push-apply",
+            "target": "isarray"
+        },
+        {
+            "source": "safe-regex-test",
+            "target": "call-bound"
+        },
+        {
+            "source": "safe-regex-test",
+            "target": "es-errors"
+        },
+        {
+            "source": "safe-regex-test",
+            "target": "is-regex"
+        },
+        {
+            "source": "set-proto",
+            "target": "dunder-proto"
+        },
+        {
+            "source": "set-proto",
+            "target": "es-errors"
+        },
+        {
+            "source": "set-proto",
+            "target": "es-object-atoms"
+        },
+        {
+            "source": "string.prototype.trim",
+            "target": "call-bind"
+        },
+        {
+            "source": "string.prototype.trim",
+            "target": "call-bound"
+        },
+        {
+            "source": "string.prototype.trim",
+            "target": "define-data-property"
+        },
+        {
+            "source": "string.prototype.trim",
+            "target": "define-properties"
+        },
+        {
+            "source": "string.prototype.trim",
+            "target": "es-abstract"
+        },
+        {
+            "source": "string.prototype.trim",
+            "target": "es-object-atoms"
+        },
+        {
+            "source": "string.prototype.trim",
+            "target": "has-property-descriptors"
+        },
+        {
+            "source": "string.prototype.trimstart",
+            "target": "call-bind"
+        },
+        {
+            "source": "string.prototype.trimstart",
+            "target": "define-properties"
+        },
+        {
+            "source": "string.prototype.trimstart",
+            "target": "es-object-atoms"
+        },
+        {
+            "source": "typed-array-buffer",
+            "target": "call-bound"
+        },
+        {
+            "source": "typed-array-buffer",
+            "target": "es-errors"
+        },
+        {
+            "source": "typed-array-buffer",
+            "target": "is-typed-array"
+        },
+        {
+            "source": "typed-array-byte-length",
+            "target": "call-bind"
+        },
+        {
+            "source": "typed-array-byte-length",
+            "target": "for-each"
+        },
+        {
+            "source": "typed-array-byte-length",
+            "target": "gopd"
+        },
+        {
+            "source": "typed-array-byte-length",
+            "target": "has-proto"
+        },
+        {
+            "source": "typed-array-byte-length",
+            "target": "is-typed-array"
+        },
+        {
+            "source": "typed-array-byte-offset",
+            "target": "available-typed-arrays"
+        },
+        {
+            "source": "typed-array-byte-offset",
+            "target": "call-bind"
+        },
+        {
+            "source": "typed-array-byte-offset",
+            "target": "for-each"
+        },
+        {
+            "source": "typed-array-byte-offset",
+            "target": "gopd"
+        },
+        {
+            "source": "typed-array-byte-offset",
+            "target": "has-proto"
+        },
+        {
+            "source": "typed-array-byte-offset",
+            "target": "is-typed-array"
+        },
+        {
+            "source": "typed-array-byte-offset",
+            "target": "reflect.getprototypeof"
+        },
+        {
+            "source": "typed-array-length",
+            "target": "call-bind"
+        },
+        {
+            "source": "typed-array-length",
+            "target": "for-each"
+        },
+        {
+            "source": "typed-array-length",
+            "target": "gopd"
+        },
+        {
+            "source": "typed-array-length",
+            "target": "is-typed-array"
+        },
+        {
+            "source": "typed-array-length",
+            "target": "possible-typed-array-names"
+        },
+        {
+            "source": "typed-array-length",
+            "target": "reflect.getprototypeof"
+        },
+        {
+            "source": "unbox-primitive",
+            "target": "call-bound"
+        },
+        {
+            "source": "unbox-primitive",
+            "target": "has-bigints"
+        },
+        {
+            "source": "unbox-primitive",
+            "target": "has-symbols"
+        },
+        {
+            "source": "unbox-primitive",
+            "target": "which-boxed-primitive"
+        },
+        {
+            "source": "which-typed-array",
+            "target": "available-typed-arrays"
+        },
+        {
+            "source": "which-typed-array",
+            "target": "call-bind"
+        },
+        {
+            "source": "which-typed-array",
+            "target": "call-bound"
+        },
+        {
+            "source": "which-typed-array",
+            "target": "for-each"
+        },
+        {
+            "source": "which-typed-array",
+            "target": "gopd"
+        },
+        {
+            "source": "which-typed-array",
+            "target": "has-tostringtag"
+        },
+        {
+            "source": "update-browserslist-db",
+            "target": "escalade"
+        },
+        {
+            "source": "update-browserslist-db",
+            "target": "picocolors"
+        },
+        {
+            "source": "normalize-package-data",
+            "target": "hosted-git-info"
+        },
+        {
+            "source": "normalize-package-data",
+            "target": "semver"
+        },
+        {
+            "source": "normalize-package-data",
+            "target": "validate-npm-package-license"
+        },
+        {
+            "source": "@nodelib/fs.scandir",
+            "target": "@nodelib/fs.stat"
+        },
+        {
+            "source": "@nodelib/fs.scandir",
+            "target": "run-parallel"
+        },
+        {
+            "source": "fastq",
+            "target": "reusify"
+        },
+        {
+            "source": "to-regex-range",
+            "target": "is-number"
+        },
+        {
+            "source": "bundle-name",
+            "target": "run-applescript"
+        },
+        {
+            "source": "is-unc-path",
+            "target": "unc-path-regex"
+        },
+        {
+            "source": "keyv",
+            "target": "@keyv/serialize"
+        },
+        {
+            "source": "p-limit",
+            "target": "yocto-queue"
+        },
+        {
+            "source": "is-date-object",
+            "target": "call-bound"
+        },
+        {
+            "source": "is-date-object",
+            "target": "has-tostringtag"
+        },
+        {
+            "source": "is-symbol",
+            "target": "call-bound"
+        },
+        {
+            "source": "is-symbol",
+            "target": "has-symbols"
+        },
+        {
+            "source": "is-symbol",
+            "target": "safe-regex-test"
+        },
+        {
+            "source": "dunder-proto",
+            "target": "call-bind-apply-helpers"
+        },
+        {
+            "source": "dunder-proto",
+            "target": "es-errors"
+        },
+        {
+            "source": "dunder-proto",
+            "target": "gopd"
+        },
+        {
+            "source": "side-channel",
+            "target": "es-errors"
+        },
+        {
+            "source": "side-channel",
+            "target": "object-inspect"
+        },
+        {
+            "source": "side-channel",
+            "target": "side-channel-list"
+        },
+        {
+            "source": "side-channel",
+            "target": "side-channel-map"
+        },
+        {
+            "source": "side-channel",
+            "target": "side-channel-weakmap"
+        },
+        {
+            "source": "set-function-name",
+            "target": "define-data-property"
+        },
+        {
+            "source": "set-function-name",
+            "target": "es-errors"
+        },
+        {
+            "source": "set-function-name",
+            "target": "functions-have-names"
+        },
+        {
+            "source": "set-function-name",
+            "target": "has-property-descriptors"
+        },
+        {
+            "source": "for-each",
+            "target": "is-callable"
+        },
+        {
+            "source": "reflect.getprototypeof",
+            "target": "call-bind"
+        },
+        {
+            "source": "reflect.getprototypeof",
+            "target": "define-properties"
+        },
+        {
+            "source": "reflect.getprototypeof",
+            "target": "es-abstract"
+        },
+        {
+            "source": "reflect.getprototypeof",
+            "target": "es-errors"
+        },
+        {
+            "source": "reflect.getprototypeof",
+            "target": "es-object-atoms"
+        },
+        {
+            "source": "reflect.getprototypeof",
+            "target": "get-intrinsic"
+        },
+        {
+            "source": "reflect.getprototypeof",
+            "target": "get-proto"
+        },
+        {
+            "source": "reflect.getprototypeof",
+            "target": "which-builtin-type"
+        },
+        {
+            "source": "which-boxed-primitive",
+            "target": "is-bigint"
+        },
+        {
+            "source": "which-boxed-primitive",
+            "target": "is-boolean-object"
+        },
+        {
+            "source": "which-boxed-primitive",
+            "target": "is-number-object"
+        },
+        {
+            "source": "which-boxed-primitive",
+            "target": "is-string"
+        },
+        {
+            "source": "which-boxed-primitive",
+            "target": "is-symbol"
+        },
+        {
+            "source": "hosted-git-info",
+            "target": "lru-cache"
+        },
+        {
+            "source": "validate-npm-package-license",
+            "target": "spdx-correct"
+        },
+        {
+            "source": "validate-npm-package-license",
+            "target": "spdx-expression-parse"
+        },
+        {
+            "source": "run-parallel",
+            "target": "queue-microtask"
+        },
+        {
+            "source": "@keyv/serialize",
+            "target": "buffer"
+        },
+        {
+            "source": "side-channel-list",
+            "target": "es-errors"
+        },
+        {
+            "source": "side-channel-list",
+            "target": "object-inspect"
+        },
+        {
+            "source": "side-channel-map",
+            "target": "call-bound"
+        },
+        {
+            "source": "side-channel-map",
+            "target": "es-errors"
+        },
+        {
+            "source": "side-channel-map",
+            "target": "get-intrinsic"
+        },
+        {
+            "source": "side-channel-map",
+            "target": "object-inspect"
+        },
+        {
+            "source": "side-channel-weakmap",
+            "target": "call-bound"
+        },
+        {
+            "source": "side-channel-weakmap",
+            "target": "es-errors"
+        },
+        {
+            "source": "side-channel-weakmap",
+            "target": "get-intrinsic"
+        },
+        {
+            "source": "side-channel-weakmap",
+            "target": "object-inspect"
+        },
+        {
+            "source": "side-channel-weakmap",
+            "target": "side-channel-map"
+        },
+        {
+            "source": "which-builtin-type",
+            "target": "call-bound"
+        },
+        {
+            "source": "which-builtin-type",
+            "target": "function.prototype.name"
+        },
+        {
+            "source": "which-builtin-type",
+            "target": "has-tostringtag"
+        },
+        {
+            "source": "which-builtin-type",
+            "target": "is-async-function"
+        },
+        {
+            "source": "which-builtin-type",
+            "target": "is-date-object"
+        },
+        {
+            "source": "which-builtin-type",
+            "target": "is-finalizationregistry"
+        },
+        {
+            "source": "which-builtin-type",
+            "target": "is-generator-function"
+        },
+        {
+            "source": "which-builtin-type",
+            "target": "is-regex"
+        },
+        {
+            "source": "which-builtin-type",
+            "target": "is-weakref"
+        },
+        {
+            "source": "which-builtin-type",
+            "target": "isarray"
+        },
+        {
+            "source": "which-builtin-type",
+            "target": "which-boxed-primitive"
+        },
+        {
+            "source": "which-builtin-type",
+            "target": "which-collection"
+        },
+        {
+            "source": "which-builtin-type",
+            "target": "which-typed-array"
+        },
+        {
+            "source": "is-bigint",
+            "target": "has-bigints"
+        },
+        {
+            "source": "is-boolean-object",
+            "target": "call-bound"
+        },
+        {
+            "source": "is-boolean-object",
+            "target": "has-tostringtag"
+        },
+        {
+            "source": "is-number-object",
+            "target": "call-bound"
+        },
+        {
+            "source": "is-number-object",
+            "target": "has-tostringtag"
+        },
+        {
+            "source": "spdx-correct",
+            "target": "spdx-expression-parse"
+        },
+        {
+            "source": "spdx-correct",
+            "target": "spdx-license-ids"
+        },
+        {
+            "source": "spdx-expression-parse",
+            "target": "spdx-exceptions"
+        },
+        {
+            "source": "spdx-expression-parse",
+            "target": "spdx-license-ids"
+        },
+        {
+            "source": "buffer",
+            "target": "base64-js"
+        },
+        {
+            "source": "buffer",
+            "target": "ieee754"
+        },
+        {
+            "source": "is-async-function",
+            "target": "call-bound"
+        },
+        {
+            "source": "is-async-function",
+            "target": "get-proto"
+        },
+        {
+            "source": "is-async-function",
+            "target": "has-tostringtag"
+        },
+        {
+            "source": "is-async-function",
+            "target": "safe-regex-test"
+        },
+        {
+            "source": "is-finalizationregistry",
+            "target": "call-bound"
+        },
+        {
+            "source": "is-generator-function",
+            "target": "call-bound"
+        },
+        {
+            "source": "is-generator-function",
+            "target": "get-proto"
+        },
+        {
+            "source": "is-generator-function",
+            "target": "has-tostringtag"
+        },
+        {
+            "source": "is-generator-function",
+            "target": "safe-regex-test"
+        },
+        {
+            "source": "which-collection",
+            "target": "is-map"
+        },
+        {
+            "source": "which-collection",
+            "target": "is-set"
+        },
+        {
+            "source": "which-collection",
+            "target": "is-weakmap"
+        },
+        {
+            "source": "which-collection",
+            "target": "is-weakset"
+        },
+        {
+            "source": "is-weakset",
+            "target": "call-bound"
+        },
+        {
+            "source": "is-weakset",
+            "target": "get-intrinsic"
+        }
+    ]
+}

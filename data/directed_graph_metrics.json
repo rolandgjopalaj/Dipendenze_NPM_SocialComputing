@@ -1,0 +1,2920 @@
+{
+    "global_matrics": {
+        "graph_center": null,
+        "radius": null,
+        "average_distance": null,
+        "max_distance": null,
+        "clustering_coefficient": 0.0795805837131776,
+        "transitivity": 0.037405179178655504
+    },
+    "centrality_measures": {
+        "xo": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0,
+            "out_degree_centrality": 0.1022099447513812,
+            "pagerank": 0.0015353541098299802
+        },
+        "@eslint/eslintrc": {
+            "betweenness_centrality": 0.00012294475648265765,
+            "closeness_centrality": 0.0055248618784530384,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.024861878453038673,
+            "pagerank": 0.0016098872015847291
+        },
+        "@typescript-eslint/eslint-plugin": {
+            "betweenness_centrality": 0.0001536809456033221,
+            "closeness_centrality": 0.006215469613259668,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.024861878453038673,
+            "pagerank": 0.0021316915512350184
+        },
+        "@typescript-eslint/parser": {
+            "betweenness_centrality": 0.00022178519867566563,
+            "closeness_centrality": 0.006215469613259668,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.013812154696132596,
+            "pagerank": 0.0021316915512350184
+        },
+        "arrify": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0027624309392265192,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.001570623787318726
+        },
+        "cosmiconfig": {
+            "betweenness_centrality": 6.759410885457319e-05,
+            "closeness_centrality": 0.0027624309392265192,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.011049723756906077,
+            "pagerank": 0.001570623787318726
+        },
+        "define-lazy-prop": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.006215469613259668,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.001967785533714365
+        },
+        "eslint": {
+            "betweenness_centrality": 0.00043209215245149806,
+            "closeness_centrality": 0.0027624309392265192,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.09392265193370165,
+            "pagerank": 0.001570623787318726
+        },
+        "eslint-config-prettier": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0027624309392265192,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.001570623787318726
+        },
+        "eslint-config-xo": {
+            "betweenness_centrality": 3.0226044902894054e-05,
+            "closeness_centrality": 0.0055248618784530384,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.008287292817679558,
+            "pagerank": 0.002015609149000094
+        },
+        "eslint-config-xo-typescript": {
+            "betweenness_centrality": 1.3008677553144275e-05,
+            "closeness_centrality": 0.0027624309392265192,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.008287292817679558,
+            "pagerank": 0.001570623787318726
+        },
+        "eslint-formatter-pretty": {
+            "betweenness_centrality": 0.00013008677553144276,
+            "closeness_centrality": 0.0027624309392265192,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.022099447513812154,
+            "pagerank": 0.001570623787318726
+        },
+        "eslint-import-resolver-webpack": {
+            "betweenness_centrality": 9.903174627467185e-05,
+            "closeness_centrality": 0.0027624309392265192,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.027624309392265192,
+            "pagerank": 0.001570623787318726
+        },
+        "eslint-plugin-ava": {
+            "betweenness_centrality": 5.739122449916592e-05,
+            "closeness_centrality": 0.0027624309392265192,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.022099447513812154,
+            "pagerank": 0.001570623787318726
+        },
+        "eslint-plugin-eslint-comments": {
+            "betweenness_centrality": 5.101442177703637e-06,
+            "closeness_centrality": 0.0027624309392265192,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.001570623787318726
+        },
+        "eslint-plugin-import": {
+            "betweenness_centrality": 0.000758393147742867,
+            "closeness_centrality": 0.0027624309392265192,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.052486187845303865,
+            "pagerank": 0.001570623787318726
+        },
+        "eslint-plugin-n": {
+            "betweenness_centrality": 3.762313606056433e-05,
+            "closeness_centrality": 0.0027624309392265192,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.022099447513812154,
+            "pagerank": 0.001570623787318726
+        },
+        "eslint-plugin-no-use-extend-native": {
+            "betweenness_centrality": 6.88694693989991e-05,
+            "closeness_centrality": 0.0027624309392265192,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.011049723756906077,
+            "pagerank": 0.001570623787318726
+        },
+        "eslint-plugin-prettier": {
+            "betweenness_centrality": 3.826081633277728e-05,
+            "closeness_centrality": 0.0027624309392265192,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.001570623787318726
+        },
+        "eslint-plugin-promise": {
+            "betweenness_centrality": 1.913040816638864e-06,
+            "closeness_centrality": 0.0027624309392265192,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.001570623787318726
+        },
+        "eslint-plugin-unicorn": {
+            "betweenness_centrality": 0.00024129821500538205,
+            "closeness_centrality": 0.0027624309392265192,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.04419889502762431,
+            "pagerank": 0.001570623787318726
+        },
+        "esm-utils": {
+            "betweenness_centrality": 1.5304326533110912e-05,
+            "closeness_centrality": 0.0027624309392265192,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.001570623787318726
+        },
+        "find-cache-dir": {
+            "betweenness_centrality": 1.1478244899833185e-05,
+            "closeness_centrality": 0.0027624309392265192,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.001570623787318726
+        },
+        "find-up-simple": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.011049723756906077,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.008287292817679558,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.004043405916219169
+        },
+        "get-stdin": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0027624309392265192,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.001570623787318726
+        },
+        "get-tsconfig": {
+            "betweenness_centrality": 1.5304326533110912e-05,
+            "closeness_centrality": 0.0055248618784530384,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.001737493297949239
+        },
+        "globby": {
+            "betweenness_centrality": 9.310131974309138e-05,
+            "closeness_centrality": 0.0027624309392265192,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.016574585635359115,
+            "pagerank": 0.001570623787318726
+        },
+        "imurmurhash": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0055248618784530384,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0016098872015847291
+        },
+        "json-stable-stringify-without-jsonify": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0055248618784530384,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0016098872015847291
+        },
+        "lodash-es": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0027624309392265192,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.001570623787318726
+        },
+        "meow": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0027624309392265192,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.001570623787318726
+        },
+        "micromatch": {
+            "betweenness_centrality": 0.000436173306193661,
+            "closeness_centrality": 0.010751082574286995,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.0019222904956823449
+        },
+        "open-editor": {
+            "betweenness_centrality": 0.0001747243945863496,
+            "closeness_centrality": 0.0027624309392265192,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.011049723756906077,
+            "pagerank": 0.001570623787318726
+        },
+        "prettier": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0027624309392265192,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.001570623787318726
+        },
+        "semver": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.026243093922651933,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.022099447513812154,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0045815085421693266
+        },
+        "slash": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0055248618784530384,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.00179311646815941
+        },
+        "to-absolute-glob": {
+            "betweenness_centrality": 4.591297959933274e-05,
+            "closeness_centrality": 0.0027624309392265192,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.001570623787318726
+        },
+        "typescript": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0027624309392265192,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.001570623787318726
+        },
+        "ajv": {
+            "betweenness_centrality": 7.652163266555456e-05,
+            "closeness_centrality": 0.006215469613259668,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.011049723756906077,
+            "pagerank": 0.0017266540684276674
+        },
+        "debug": {
+            "betweenness_centrality": 0.00013008677553144276,
+            "closeness_centrality": 0.028512233622730858,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.005238414898731031
+        },
+        "espree": {
+            "betweenness_centrality": 0.00011860853063160956,
+            "closeness_centrality": 0.013535911602209943,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.011049723756906077,
+            "out_degree_centrality": 0.008287292817679558,
+            "pagerank": 0.0023272505392393857
+        },
+        "globals": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.013535911602209943,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.011049723756906077,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0025087553566772287
+        },
+        "ignore": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.017212069698257542,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.016574585635359115,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0029848155532782024
+        },
+        "import-fresh": {
+            "betweenness_centrality": 8.417379593211001e-05,
+            "closeness_centrality": 0.007366482504604051,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.0020211296754226904
+        },
+        "js-yaml": {
+            "betweenness_centrality": 3.0608653066221824e-05,
+            "closeness_centrality": 0.007366482504604051,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0020211296754226904
+        },
+        "minimatch": {
+            "betweenness_centrality": 0.00022956489799666368,
+            "closeness_centrality": 0.020049901978256995,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.016574585635359115,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.002720776366791593
+        },
+        "strip-json-comments": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004972375690607734,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0016873906541616645
+        },
+        "graphemer": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0055248618784530384,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0017366753606872659
+        },
+        "ts-api-utils": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.013154433043935805,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.008287292817679558,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0024165874048213977
+        },
+        "natural-compare": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.007673419275629221,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.001775938774953269
+        },
+        "@typescript-eslint/utils": {
+            "betweenness_centrality": 0.0007983757008106193,
+            "closeness_centrality": 0.013535911602209943,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.011049723756906077,
+            "out_degree_centrality": 0.011049723756906077,
+            "pagerank": 0.0031005071481083014
+        },
+        "@eslint-community/regexpp": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.011279926335174955,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.008287292817679558,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0022582096170642944
+        },
+        "@typescript-eslint/type-utils": {
+            "betweenness_centrality": 0.00010330420409849865,
+            "closeness_centrality": 0.0055248618784530384,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.011049723756906077,
+            "pagerank": 0.0017366753606872659
+        },
+        "@typescript-eslint/visitor-keys": {
+            "betweenness_centrality": 4.2086897966055005e-05,
+            "closeness_centrality": 0.015193370165745856,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.011049723756906077,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.0035821743904467566
+        },
+        "@typescript-eslint/scope-manager": {
+            "betweenness_centrality": 1.4028965988685001e-05,
+            "closeness_centrality": 0.013162170945726356,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.008287292817679558,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.0027579398743636683
+        },
+        "@typescript-eslint/types": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.01894238358326756,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.013812154696132596,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.005562186903449364
+        },
+        "@typescript-eslint/typescript-estree": {
+            "betweenness_centrality": 0.0014271284492125926,
+            "closeness_centrality": 0.013162170945726356,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.008287292817679558,
+            "out_degree_centrality": 0.022099447513812154,
+            "pagerank": 0.0029256556868299207
+        },
+        "env-paths": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0018690931310910062
+        },
+        "parse-json": {
+            "betweenness_centrality": 0.0001785504762196273,
+            "closeness_centrality": 0.007673419275629221,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.008287292817679558,
+            "pagerank": 0.00220805475781209
+        },
+        "@eslint-community/eslint-utils": {
+            "betweenness_centrality": 4.463761905490682e-05,
+            "closeness_centrality": 0.021220492214967353,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.016574585635359115,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.00430103497933017
+        },
+        "@eslint/config-array": {
+            "betweenness_centrality": 1.5304326533110912e-05,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.008287292817679558,
+            "pagerank": 0.0015746175240959831
+        },
+        "@eslint/core": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0015746175240959831
+        },
+        "@eslint/js": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0015746175240959831
+        },
+        "@eslint/plugin-kit": {
+            "betweenness_centrality": 7.652163266555456e-06,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0015746175240959831
+        },
+        "@humanfs/node": {
+            "betweenness_centrality": 1.5304326533110912e-05,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.0015746175240959831
+        },
+        "@humanwhocodes/module-importer": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0015746175240959831
+        },
+        "@humanwhocodes/retry": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.006215469613259668,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0022437929646083087
+        },
+        "@types/estree": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.007366482504604051,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0022980237872625214
+        },
+        "@types/json-schema": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.009865824782951855,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.008287292817679558,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0036363746682871716
+        },
+        "chalk": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.006215469613259668,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0017414870347264963
+        },
+        "cross-spawn": {
+            "betweenness_centrality": 0.00014539110206455367,
+            "closeness_centrality": 0.007366482504604051,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.008287292817679558,
+            "pagerank": 0.0017070047728945297
+        },
+        "escape-string-regexp": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.009865824782951855,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.008287292817679558,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.003617990863326372
+        },
+        "eslint-scope": {
+            "betweenness_centrality": 2.0660840819699733e-05,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.0015746175240959831
+        },
+        "eslint-visitor-keys": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.03342541436464089,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.016574585635359115,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.00929294991605431
+        },
+        "esquery": {
+            "betweenness_centrality": 1.4539110206455365e-05,
+            "closeness_centrality": 0.006215469613259668,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0016580522794112397
+        },
+        "esutils": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.007366482504604051,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.00293931536349515
+        },
+        "fast-deep-equal": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.007366482504604051,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0019415122945778693
+        },
+        "file-entry-cache": {
+            "betweenness_centrality": 0.0001377389387979982,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0015746175240959831
+        },
+        "find-up": {
+            "betweenness_centrality": 8.417379593211001e-05,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.008287292817679558,
+            "pagerank": 0.0015746175240959831
+        },
+        "glob-parent": {
+            "betweenness_centrality": 3.0608653066221824e-05,
+            "closeness_centrality": 0.011970534069981583,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0019262842324596018
+        },
+        "is-glob": {
+            "betweenness_centrality": 0.00011478244899833184,
+            "closeness_centrality": 0.018280792980175493,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.011049723756906077,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0035929943777376246
+        },
+        "lodash.merge": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0015746175240959831
+        },
+        "optionator": {
+            "betweenness_centrality": 9.947812246522093e-05,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.016574585635359115,
+            "pagerank": 0.0015746175240959831
+        },
+        "@stylistic/eslint-plugin": {
+            "betweenness_centrality": 0.00039268351162873743,
+            "closeness_centrality": 0.006215469613259668,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.013812154696132596,
+            "pagerank": 0.002551399908081143
+        },
+        "confusing-browser-globals": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004972375690607734,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0021064145463997753
+        },
+        "typescript-eslint": {
+            "betweenness_centrality": 0.00021489825173576568,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.008287292817679558,
+            "pagerank": 0.0019803394715113484
+        },
+        "@types/eslint": {
+            "betweenness_centrality": 1.5304326533110912e-05,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.0017022236204604932
+        },
+        "ansi-escapes": {
+            "betweenness_centrality": 1.5304326533110912e-05,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0017022236204604932
+        },
+        "eslint-rule-docs": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0017022236204604932
+        },
+        "log-symbols": {
+            "betweenness_centrality": 2.6782571432944097e-05,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.0017022236204604932
+        },
+        "plur": {
+            "betweenness_centrality": 1.5304326533110912e-05,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0017022236204604932
+        },
+        "string-width": {
+            "betweenness_centrality": 6.121730613244365e-05,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.008287292817679558,
+            "pagerank": 0.0017022236204604932
+        },
+        "supports-hyperlinks": {
+            "betweenness_centrality": 3.0608653066221824e-05,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.0017022236204604932
+        },
+        "enhanced-resolve": {
+            "betweenness_centrality": 4.591297959933274e-05,
+            "closeness_centrality": 0.006215469613259668,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.0018357192289649037
+        },
+        "find-root": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0016688497183343905
+        },
+        "hasown": {
+            "betweenness_centrality": 0.00010235679340835369,
+            "closeness_centrality": 0.07628281515184343,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.009406478707503317
+        },
+        "interpret": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0016688497183343905
+        },
+        "is-core-module": {
+            "betweenness_centrality": 3.0608653066221824e-05,
+            "closeness_centrality": 0.01151012891344383,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.011049723756906077,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0027957104549621954
+        },
+        "is-regex": {
+            "betweenness_centrality": 0.00020169827010095752,
+            "closeness_centrality": 0.02982297891532304,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.011049723756906077,
+            "out_degree_centrality": 0.011049723756906077,
+            "pagerank": 0.002690272724147668
+        },
+        "lodash": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.007366482504604051,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.003115662244667467
+        },
+        "resolve": {
+            "betweenness_centrality": 6.121730613244365e-05,
+            "closeness_centrality": 0.007366482504604051,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.008287292817679558,
+            "pagerank": 0.0021237489981341126
+        },
+        "enhance-visitors": {
+            "betweenness_centrality": 7.652163266555456e-06,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0017022236204604932
+        },
+        "eslint-utils": {
+            "betweenness_centrality": 3.826081633277728e-06,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0017022236204604932
+        },
+        "espurify": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0017022236204604932
+        },
+        "import-modules": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0017022236204604932
+        },
+        "micro-spelling-correcter": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0017022236204604932
+        },
+        "pkg-dir": {
+            "betweenness_centrality": 1.5304326533110912e-05,
+            "closeness_centrality": 0.006215469613259668,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0023697016629825453
+        },
+        "resolve-from": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.009040683073832245,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0025611612137032185
+        },
+        "@rtsao/scc": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0016056149564112488
+        },
+        "array-includes": {
+            "betweenness_centrality": 0.00023674710441462036,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.016574585635359115,
+            "pagerank": 0.0016056149564112488
+        },
+        "array.prototype.findlastindex": {
+            "betweenness_centrality": 0.00020821742851475131,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.016574585635359115,
+            "pagerank": 0.0016056149564112488
+        },
+        "array.prototype.flat": {
+            "betweenness_centrality": 0.00018985223667501825,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.011049723756906077,
+            "pagerank": 0.0016056149564112488
+        },
+        "array.prototype.flatmap": {
+            "betweenness_centrality": 0.00018985223667501825,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.011049723756906077,
+            "pagerank": 0.0016056149564112488
+        },
+        "doctrine": {
+            "betweenness_centrality": 7.652163266555456e-06,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0016056149564112488
+        },
+        "eslint-import-resolver-node": {
+            "betweenness_centrality": 2.295648979966637e-05,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.008287292817679558,
+            "pagerank": 0.0016056149564112488
+        },
+        "eslint-module-utils": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0016056149564112488
+        },
+        "object.fromentries": {
+            "betweenness_centrality": 0.00018781165980393677,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.011049723756906077,
+            "pagerank": 0.0016056149564112488
+        },
+        "object.groupby": {
+            "betweenness_centrality": 0.00018475079449731458,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.008287292817679558,
+            "pagerank": 0.0016056149564112488
+        },
+        "object.values": {
+            "betweenness_centrality": 2.2963115049247805e-05,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.011049723756906077,
+            "pagerank": 0.0016056149564112488
+        },
+        "string.prototype.trimend": {
+            "betweenness_centrality": 2.391963545756724e-05,
+            "closeness_centrality": 0.019337016574585635,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.011049723756906077,
+            "pagerank": 0.00167337844133935
+        },
+        "tsconfig-paths": {
+            "betweenness_centrality": 4.591297959933274e-05,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.008287292817679558,
+            "pagerank": 0.0016056149564112488
+        },
+        "eslint-plugin-es-x": {
+            "betweenness_centrality": 2.295648979966637e-05,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.008287292817679558,
+            "pagerank": 0.0017022236204604932
+        },
+        "is-get-set-prop": {
+            "betweenness_centrality": 2.0405768710814548e-05,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.0018690931310910062
+        },
+        "is-js-type": {
+            "betweenness_centrality": 1.5304326533110912e-05,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0018690931310910062
+        },
+        "is-obj-prop": {
+            "betweenness_centrality": 2.0405768710814548e-05,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.0018690931310910062
+        },
+        "is-proto-prop": {
+            "betweenness_centrality": 2.0405768710814548e-05,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.0018690931310910062
+        },
+        "prettier-linter-helpers": {
+            "betweenness_centrality": 1.5304326533110912e-05,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.002202832152352032
+        },
+        "synckit": {
+            "betweenness_centrality": 3.0608653066221824e-05,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.002202832152352032
+        },
+        "@babel/helper-validator-identifier": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.008459944751381215,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.002231067092678534
+        },
+        "ci-info": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0016187888651452366
+        },
+        "clean-regexp": {
+            "betweenness_centrality": 7.652163266555456e-06,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0016187888651452366
+        },
+        "core-js-compat": {
+            "betweenness_centrality": 9.947812246522093e-05,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0016187888651452366
+        },
+        "indent-string": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0016187888651452366
+        },
+        "is-builtin-module": {
+            "betweenness_centrality": 1.5304326533110912e-05,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0016187888651452366
+        },
+        "jsesc": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.006215469613259668,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0029946841618535727
+        },
+        "pluralize": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0016187888651452366
+        },
+        "read-pkg-up": {
+            "betweenness_centrality": 0.00020915912928584914,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.008287292817679558,
+            "pagerank": 0.0016187888651452366
+        },
+        "regexp-tree": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0016187888651452366
+        },
+        "regjsparser": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0016187888651452366
+        },
+        "strip-indent": {
+            "betweenness_centrality": 1.5304326533110912e-05,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0016187888651452366
+        },
+        "import-meta-resolve": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.002202832152352032
+        },
+        "url-or-path": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.002202832152352032
+        },
+        "common-path-prefix": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.002202832152352032
+        },
+        "resolve-pkg-maps": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004972375690607734,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0030121446541235644
+        },
+        "@sindresorhus/merge-streams": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.007366482504604051,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0018902340394692104
+        },
+        "fast-glob": {
+            "betweenness_centrality": 0.0012013896328492066,
+            "closeness_centrality": 0.012379783098015141,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.013812154696132596,
+            "pagerank": 0.002068721771481258
+        },
+        "path-type": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0017578467906706643
+        },
+        "unicorn-magic": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.015346838551258441,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.011049723756906077,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0032516811114686587
+        },
+        "braces": {
+            "betweenness_centrality": 0.00029843436739566276,
+            "closeness_centrality": 0.009337016574585636,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0023522772249645963
+        },
+        "picomatch": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.012285548124454784,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.002786004185145802
+        },
+        "env-editor": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0018690931310910062
+        },
+        "execa": {
+            "betweenness_centrality": 0.0002486953061630523,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.03314917127071823,
+            "pagerank": 0.0018690931310910062
+        },
+        "line-column-path": {
+            "betweenness_centrality": 1.0202884355407274e-05,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0018690931310910062
+        },
+        "open": {
+            "betweenness_centrality": 0.00011478244899833184,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.011049723756906077,
+            "pagerank": 0.0018690931310910062
+        },
+        "is-absolute": {
+            "betweenness_centrality": 6.121730613244365e-05,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.002202832152352032
+        },
+        "is-negated-glob": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0036832412523020255,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.002202832152352032
+        },
+        "fast-uri": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0055248618784530384,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0019022488803118662
+        },
+        "json-schema-traverse": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0055248618784530384,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0019022488803118662
+        },
+        "require-from-string": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0055248618784530384,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0019022488803118662
+        },
+        "ms": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.019457122267595484,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.005987961218189329
+        },
+        "acorn": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.009821976672805401,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0021947530184502507
+        },
+        "acorn-jsx": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.009821976672805401,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0021947530184502507
+        },
+        "parent-module": {
+            "betweenness_centrality": 3.826081633277728e-05,
+            "closeness_centrality": 0.006278252134605726,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0023942917030727053
+        },
+        "argparse": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.006278252134605726,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0032532292963154304
+        },
+        "brace-expansion": {
+            "betweenness_centrality": 0.0001224346122648873,
+            "closeness_centrality": 0.015046432349829551,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0038479185519474314
+        },
+        "@babel/code-frame": {
+            "betweenness_centrality": 0.00011478244899833184,
+            "closeness_centrality": 0.0066298342541436465,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.008287292817679558,
+            "pagerank": 0.0021609501570572127
+        },
+        "index-to-position": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0066298342541436465,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0021609501570572127
+        },
+        "type-fest": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.013599660008499787,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.011049723756906077,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.004547190534930299
+        },
+        "@eslint/object-schema": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0019814710701715303
+        },
+        "levn": {
+            "betweenness_centrality": 1.5304326533110912e-05,
+            "closeness_centrality": 0.006314127861089186,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.0030967634710254055
+        },
+        "@humanfs/core": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.002204529550342305
+        },
+        "which": {
+            "betweenness_centrality": 3.826081633277728e-05,
+            "closeness_centrality": 0.006278252134605726,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0020189822036339056
+        },
+        "path-key": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.008287292817679558,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0027277379373692656
+        },
+        "shebang-command": {
+            "betweenness_centrality": 3.826081633277728e-05,
+            "closeness_centrality": 0.006278252134605726,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0020189822036339056
+        },
+        "esrecurse": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.002204529550342305
+        },
+        "estraverse": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.014917127071823202,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.011049723756906077,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.005921285087590995
+        },
+        "flat-cache": {
+            "betweenness_centrality": 0.00018365191839733096,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.008287292817679558,
+            "pagerank": 0.0028737049908546305
+        },
+        "locate-path": {
+            "betweenness_centrality": 6.88694693989991e-05,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0019814710701715303
+        },
+        "path-exists": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0019814710701715303
+        },
+        "is-extglob": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.014143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.004589381391094865
+        },
+        "prelude-ls": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.009944751381215469,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.008287292817679558,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0056879117813342355
+        },
+        "deep-is": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0017584125900007553
+        },
+        "word-wrap": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0017584125900007553
+        },
+        "type-check": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.007673419275629221,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0030744810894328014
+        },
+        "fast-levenshtein": {
+            "betweenness_centrality": 2.295648979966637e-05,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0017584125900007553
+        },
+        "environment": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0029821666361630563
+        },
+        "is-unicode-supported": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.008287292817679558,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0036762718404672393
+        },
+        "yoctocolors": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.007673419275629221,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0023911476217950644
+        },
+        "irregular-plurals": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0029821666361630563
+        },
+        "emoji-regex": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0020176249519410056
+        },
+        "get-east-asian-width": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0020176249519410056
+        },
+        "strip-ansi": {
+            "betweenness_centrality": 2.295648979966637e-05,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0020176249519410056
+        },
+        "has-flag": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0022587603729965185
+        },
+        "supports-color": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0022587603729965185
+        },
+        "graceful-fs": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0055248618784530384,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.002315494156696311
+        },
+        "tapable": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0055248618784530384,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.002315494156696311
+        },
+        "function-bind": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.07527251007913992,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.011049723756906077,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.018053557473528648
+        },
+        "call-bound": {
+            "betweenness_centrality": 0.0017315636364166386,
+            "closeness_centrality": 0.09948292959342683,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.09116022099447513,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.020958876807776503
+        },
+        "gopd": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.08377027835450611,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.03314917127071823,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.00929241498241661
+        },
+        "has-tostringtag": {
+            "betweenness_centrality": 9.27824796069849e-05,
+            "closeness_centrality": 0.04397404599768727,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.007346818358224257
+        },
+        "path-parse": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.006278252134605726,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0021370547200767944
+        },
+        "supports-preserve-symlinks-flag": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.006278252134605726,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0021370547200767944
+        },
+        "call-bind": {
+            "betweenness_centrality": 0.0011168779491884434,
+            "closeness_centrality": 0.0554652800346658,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.06077348066298342,
+            "out_degree_centrality": 0.011049723756906077,
+            "pagerank": 0.008350661099310454
+        },
+        "define-properties": {
+            "betweenness_centrality": 0.0003745916113342385,
+            "closeness_centrality": 0.046104019813297765,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.04419889502762431,
+            "out_degree_centrality": 0.008287292817679558,
+            "pagerank": 0.006595613897813579
+        },
+        "es-abstract": {
+            "betweenness_centrality": 0.006478354024667735,
+            "closeness_centrality": 0.025936157151626765,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.024861878453038673,
+            "out_degree_centrality": 0.1408839779005525,
+            "pagerank": 0.004065924086041299
+        },
+        "es-object-atoms": {
+            "betweenness_centrality": 4.3362258510480914e-05,
+            "closeness_centrality": 0.07509649587527435,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.03591160220994475,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.007986176923461017
+        },
+        "get-intrinsic": {
+            "betweenness_centrality": 0.0027989589476835742,
+            "closeness_centrality": 0.09040683073832244,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.04419889502762431,
+            "out_degree_centrality": 0.027624309392265192,
+            "pagerank": 0.018058168040526356
+        },
+        "is-string": {
+            "betweenness_centrality": 5.981440953357514e-05,
+            "closeness_centrality": 0.023480662983425413,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.008287292817679558,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.0021688542478553595
+        },
+        "es-errors": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.10294401730865821,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0718232044198895,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.028129307873925563
+        },
+        "es-shim-unscopables": {
+            "betweenness_centrality": 1.5304326533110912e-05,
+            "closeness_centrality": 0.008632596685082872,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.008287292817679558,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0024451526694294246
+        },
+        "json5": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0019902533896297026
+        },
+        "minimist": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0019902533896297026
+        },
+        "strip-bom": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0019902533896297026
+        },
+        "eslint-compat-utils": {
+            "betweenness_centrality": 7.652163266555456e-06,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0020176249519410056
+        },
+        "get-set-props": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0023296776026212585
+        },
+        "lowercase-keys": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.008632596685082872,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.008287292817679558,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.003918324588203815
+        },
+        "js-types": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0031240010954125368
+        },
+        "obj-props": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0023296776026212585
+        },
+        "prototype-properties": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0023296776026212585
+        },
+        "fast-diff": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0034076700139114976
+        },
+        "@pkgr/core": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.002471512061870739
+        },
+        "tslib": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.002471512061870739
+        },
+        "browserslist": {
+            "betweenness_centrality": 0.00013008677553144276,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.011049723756906077,
+            "pagerank": 0.0029112494065383163
+        },
+        "builtin-modules": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0029112494065383163
+        },
+        "read-pkg": {
+            "betweenness_centrality": 0.0003060865306622182,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.013812154696132596,
+            "pagerank": 0.0019939858753994255
+        },
+        "min-indent": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0029112494065383163
+        },
+        "@nodelib/fs.stat": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.012891344383057089,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0028803437595835485
+        },
+        "@nodelib/fs.walk": {
+            "betweenness_centrality": 0.00045912979599332736,
+            "closeness_centrality": 0.010199745006374841,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.0018870208181935991
+        },
+        "merge2": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.010199745006374841,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0018870208181935991
+        },
+        "fill-range": {
+            "betweenness_centrality": 0.00021426057146355277,
+            "closeness_centrality": 0.008459944751381215,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.003534744497338402
+        },
+        "figures": {
+            "betweenness_centrality": 1.5304326533110912e-05,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0016677413586285265
+        },
+        "get-stream": {
+            "betweenness_centrality": 2.295648979966637e-05,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.0016677413586285265
+        },
+        "human-signals": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0016677413586285265
+        },
+        "is-plain-obj": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0016677413586285265
+        },
+        "is-stream": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.006314127861089186,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0023764970923638874
+        },
+        "npm-run-path": {
+            "betweenness_centrality": 2.295648979966637e-05,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.0016677413586285265
+        },
+        "pretty-ms": {
+            "betweenness_centrality": 2.295648979966637e-05,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0016677413586285265
+        },
+        "signal-exit": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0016677413586285265
+        },
+        "strip-final-newline": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0016677413586285265
+        },
+        "default-browser": {
+            "betweenness_centrality": 6.88694693989991e-05,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.0019325158562256192
+        },
+        "is-inside-container": {
+            "betweenness_centrality": 3.0608653066221824e-05,
+            "closeness_centrality": 0.006314127861089186,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0035750941244705905
+        },
+        "is-wsl": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0019325158562256192
+        },
+        "is-relative": {
+            "betweenness_centrality": 4.591297959933274e-05,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.002471512061870739
+        },
+        "is-windows": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004143646408839779,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.002471512061870739
+        },
+        "callsites": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.005849853753656159,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0035704811854812162
+        },
+        "balanced-match": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.012474102209944752,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.004806075051171704
+        },
+        "js-tokens": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.006152687091913611,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.002147632337363277
+        },
+        "picocolors": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.01023122570083896,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0030630893724562665
+        },
+        "isexe": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.005849853753656159,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0032514357026296532
+        },
+        "shebang-regex": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.005849853753656159,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0032514357026296532
+        },
+        "flatted": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004419889502762431,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.002349535065080844
+        },
+        "hookified": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.006278252134605726,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0033481071596944247
+        },
+        "cacheable": {
+            "betweenness_centrality": 0.0001530432653311091,
+            "closeness_centrality": 0.004419889502762431,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.002349535065080844
+        },
+        "p-locate": {
+            "betweenness_centrality": 6.121730613244365e-05,
+            "closeness_centrality": 0.004419889502762431,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.003219520443136575
+        },
+        "fastest-levenshtein": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004419889502762431,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0030299263100250756
+        },
+        "ansi-regex": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004419889502762431,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.003250263421777626
+        },
+        "call-bind-apply-helpers": {
+            "betweenness_centrality": 0.0002007599691289871,
+            "closeness_centrality": 0.08519175706738719,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.011049723756906077,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.01532932139958282
+        },
+        "has-symbols": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.07425723447822895,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.019337016574585635,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.010883285915102682
+        },
+        "es-define-property": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0747400569644144,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.013812154696132596,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.010005612770530619
+        },
+        "set-function-length": {
+            "betweenness_centrality": 0.00024889571996289064,
+            "closeness_centrality": 0.035812943962115235,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.016574585635359115,
+            "pagerank": 0.003309896493997083
+        },
+        "define-data-property": {
+            "betweenness_centrality": 6.440570749350842e-05,
+            "closeness_centrality": 0.0370761564294226,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.011049723756906077,
+            "out_degree_centrality": 0.008287292817679558,
+            "pagerank": 0.004442168113637611
+        },
+        "has-property-descriptors": {
+            "betweenness_centrality": 1.5942006805323863e-05,
+            "closeness_centrality": 0.037443247087139656,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.013812154696132596,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.004509931598565713
+        },
+        "object-keys": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.0318232044198895,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.011049723756906077,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.004153171943494128
+        },
+        "array-buffer-byte-length": {
+            "betweenness_centrality": 2.5507210888518185e-06,
+            "closeness_centrality": 0.017465692389948315,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.0017977735621313765
+        },
+        "arraybuffer.prototype.slice": {
+            "betweenness_centrality": 9.56520408319432e-07,
+            "closeness_centrality": 0.015561694290976058,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.019337016574585635,
+            "pagerank": 0.0016031175947580814
+        },
+        "available-typed-arrays": {
+            "betweenness_centrality": 0.0001224346122648873,
+            "closeness_centrality": 0.026095106550907656,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.008287292817679558,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.002473725161986022
+        },
+        "data-view-buffer": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.01691988950276243,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.008287292817679558,
+            "pagerank": 0.0016031175947580814
+        },
+        "data-view-byte-length": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.01691988950276243,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.008287292817679558,
+            "pagerank": 0.0016031175947580814
+        },
+        "data-view-byte-offset": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.01691988950276243,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.008287292817679558,
+            "pagerank": 0.0016031175947580814
+        },
+        "es-set-tostringtag": {
+            "betweenness_centrality": 1.5304326533110912e-05,
+            "closeness_centrality": 0.01691988950276243,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.011049723756906077,
+            "pagerank": 0.0016031175947580814
+        },
+        "es-to-primitive": {
+            "betweenness_centrality": 0.00017982583676405322,
+            "closeness_centrality": 0.01691988950276243,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.008287292817679558,
+            "pagerank": 0.0016031175947580814
+        },
+        "function.prototype.name": {
+            "betweenness_centrality": 0.00016994179254475243,
+            "closeness_centrality": 0.018834756403817175,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.016574585635359115,
+            "pagerank": 0.001717095740597094
+        },
+        "get-proto": {
+            "betweenness_centrality": 0.0004316088579293999,
+            "closeness_centrality": 0.06674678912247974,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.016574585635359115,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.004274261500338311
+        },
+        "get-symbol-description": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.01691988950276243,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.008287292817679558,
+            "pagerank": 0.0016031175947580814
+        },
+        "globalthis": {
+            "betweenness_centrality": 9.56520408319432e-07,
+            "closeness_centrality": 0.01691988950276243,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.0016031175947580814
+        },
+        "has-proto": {
+            "betweenness_centrality": 4.373144182597264e-05,
+            "closeness_centrality": 0.020049901978256995,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.008287292817679558,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0020702919164539897
+        },
+        "internal-slot": {
+            "betweenness_centrality": 0.00042852114292710555,
+            "closeness_centrality": 0.01691988950276243,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.008287292817679558,
+            "pagerank": 0.0016031175947580814
+        },
+        "is-array-buffer": {
+            "betweenness_centrality": 7.397091157670275e-05,
+            "closeness_centrality": 0.019423342541436465,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.008287292817679558,
+            "out_degree_centrality": 0.008287292817679558,
+            "pagerank": 0.002561802698271067
+        },
+        "is-callable": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.028729281767955802,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.011049723756906077,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.004770251440049108
+        },
+        "is-data-view": {
+            "betweenness_centrality": 0.0003634777551613842,
+            "closeness_centrality": 0.02280978689818469,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.011049723756906077,
+            "out_degree_centrality": 0.008287292817679558,
+            "pagerank": 0.0029657093663711474
+        },
+        "is-shared-array-buffer": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.01691988950276243,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0016031175947580814
+        },
+        "is-typed-array": {
+            "betweenness_centrality": 0.00045657907490447556,
+            "closeness_centrality": 0.029864118261908316,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.016574585635359115,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0035918735610196133
+        },
+        "is-weakref": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.018834756403817175,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.001717095740597094
+        },
+        "math-intrinsics": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.06267686295647487,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0031382924245097078
+        },
+        "object-inspect": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.026243093922651933,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.013812154696132596,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0035218457900865413
+        },
+        "object.assign": {
+            "betweenness_centrality": 9.56520408319432e-07,
+            "closeness_centrality": 0.01691988950276243,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.016574585635359115,
+            "pagerank": 0.0016031175947580814
+        },
+        "own-keys": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.01691988950276243,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.008287292817679558,
+            "pagerank": 0.0016031175947580814
+        },
+        "regexp.prototype.flags": {
+            "betweenness_centrality": 0.00010808680614009582,
+            "closeness_centrality": 0.01691988950276243,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.016574585635359115,
+            "pagerank": 0.0016031175947580814
+        },
+        "safe-array-concat": {
+            "betweenness_centrality": 4.2086897966055005e-05,
+            "closeness_centrality": 0.01691988950276243,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.013812154696132596,
+            "pagerank": 0.0016031175947580814
+        },
+        "safe-push-apply": {
+            "betweenness_centrality": 5.3565142865888193e-05,
+            "closeness_centrality": 0.018834756403817175,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.0020573148519624366
+        },
+        "safe-regex-test": {
+            "betweenness_centrality": 0.00012422011702708355,
+            "closeness_centrality": 0.02768709191361125,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.011049723756906077,
+            "out_degree_centrality": 0.008287292817679558,
+            "pagerank": 0.002963586215032268
+        },
+        "set-proto": {
+            "betweenness_centrality": 2.6514074476222854e-05,
+            "closeness_centrality": 0.01691988950276243,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.008287292817679558,
+            "pagerank": 0.0016031175947580814
+        },
+        "string.prototype.trim": {
+            "betweenness_centrality": 8.608683674874888e-06,
+            "closeness_centrality": 0.015561694290976058,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.019337016574585635,
+            "pagerank": 0.0016031175947580814
+        },
+        "string.prototype.trimstart": {
+            "betweenness_centrality": 9.56520408319432e-07,
+            "closeness_centrality": 0.01691988950276243,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.008287292817679558,
+            "pagerank": 0.0016031175947580814
+        },
+        "typed-array-buffer": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.01691988950276243,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.008287292817679558,
+            "pagerank": 0.0016031175947580814
+        },
+        "typed-array-byte-length": {
+            "betweenness_centrality": 2.2573881636338596e-05,
+            "closeness_centrality": 0.01691988950276243,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.013812154696132596,
+            "pagerank": 0.0016031175947580814
+        },
+        "typed-array-byte-offset": {
+            "betweenness_centrality": 0.0004434428612968887,
+            "closeness_centrality": 0.01609830443894075,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.019337016574585635,
+            "pagerank": 0.0016031175947580814
+        },
+        "typed-array-length": {
+            "betweenness_centrality": 0.0004893558408962214,
+            "closeness_centrality": 0.01609830443894075,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.016574585635359115,
+            "pagerank": 0.0016031175947580814
+        },
+        "unbox-primitive": {
+            "betweenness_centrality": 0.00044382546946021643,
+            "closeness_centrality": 0.01691988950276243,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.011049723756906077,
+            "pagerank": 0.0016031175947580814
+        },
+        "which-typed-array": {
+            "betweenness_centrality": 0.0006401034572473638,
+            "closeness_centrality": 0.028447161161396495,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.008287292817679558,
+            "out_degree_centrality": 0.016574585635359115,
+            "pagerank": 0.004770184023442037
+        },
+        "caniuse-lite": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004419889502762431,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.002153971176492247
+        },
+        "electron-to-chromium": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004419889502762431,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.002153971176492247
+        },
+        "node-releases": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004419889502762431,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.002153971176492247
+        },
+        "update-browserslist-db": {
+            "betweenness_centrality": 5.3565142865888193e-05,
+            "closeness_centrality": 0.004419889502762431,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.002153971176492247
+        },
+        "@types/normalize-package-data": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004419889502762431,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0018743157365510642
+        },
+        "normalize-package-data": {
+            "betweenness_centrality": 0.00022956489799666368,
+            "closeness_centrality": 0.004419889502762431,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.008287292817679558,
+            "pagerank": 0.0018743157365510642
+        },
+        "@nodelib/fs.scandir": {
+            "betweenness_centrality": 0.0002066084081969973,
+            "closeness_centrality": 0.008977900552486187,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.0023372882159843427
+        },
+        "fastq": {
+            "betweenness_centrality": 9.947812246522093e-05,
+            "closeness_centrality": 0.008977900552486187,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0023372882159843427
+        },
+        "to-regex-range": {
+            "betweenness_centrality": 0.00011478244899833184,
+            "closeness_centrality": 0.007867683054759074,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.00454021897336917
+        },
+        "@sec-ant/readable-stream": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004419889502762431,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0022441098435653406
+        },
+        "parse-ms": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004419889502762431,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0029528655773007014
+        },
+        "bundle-name": {
+            "betweenness_centrality": 3.0608653066221824e-05,
+            "closeness_centrality": 0.004419889502762431,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0023566432439524657
+        },
+        "default-browser-id": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004419889502762431,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0023566432439524657
+        },
+        "is-docker": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.005755064456721915,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.004574356378051449
+        },
+        "is-unc-path": {
+            "betweenness_centrality": 3.0608653066221824e-05,
+            "closeness_centrality": 0.004419889502762431,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0036361396492896794
+        },
+        "keyv": {
+            "betweenness_centrality": 0.0001530432653311091,
+            "closeness_centrality": 0.004604051565377532,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0025339262044435603
+        },
+        "p-limit": {
+            "betweenness_centrality": 3.826081633277728e-05,
+            "closeness_centrality": 0.004604051565377532,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.004271956075416338
+        },
+        "possible-typed-array-names": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.020664418454473702,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0038650586136130057
+        },
+        "is-date-object": {
+            "betweenness_centrality": 4.718834014375864e-05,
+            "closeness_centrality": 0.015715162676488644,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.0021035295128733478
+        },
+        "is-symbol": {
+            "betweenness_centrality": 0.00014449834968345552,
+            "closeness_centrality": 0.017212069698257542,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.008287292817679558,
+            "pagerank": 0.0023278383802317524
+        },
+        "functions-have-names": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.017212069698257542,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.002153106755020305
+        },
+        "dunder-proto": {
+            "betweenness_centrality": 8.73621972931748e-05,
+            "closeness_centrality": 0.05262752152126429,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.008287292817679558,
+            "out_degree_centrality": 0.008287292817679558,
+            "pagerank": 0.005566235941016309
+        },
+        "side-channel": {
+            "betweenness_centrality": 0.00042852114292710555,
+            "closeness_centrality": 0.01322440343246738,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.013812154696132596,
+            "pagerank": 0.001989551367034335
+        },
+        "set-function-name": {
+            "betweenness_centrality": 1.5304326533110912e-05,
+            "closeness_centrality": 0.01322440343246738,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.011049723756906077,
+            "pagerank": 0.001762452738432158
+        },
+        "isarray": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.018646408839779006,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.008287292817679558,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0027961907465755068
+        },
+        "for-each": {
+            "betweenness_centrality": 7.652163266555456e-05,
+            "closeness_centrality": 0.0228332182320442,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.011049723756906077,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0029055786599827115
+        },
+        "reflect.getprototypeof": {
+            "betweenness_centrality": 0.001788055483285125,
+            "closeness_centrality": 0.012617589965656264,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.022099447513812154,
+            "pagerank": 0.001957108705805453
+        },
+        "has-bigints": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.016887313666214945,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0034685163772695195
+        },
+        "which-boxed-primitive": {
+            "betweenness_centrality": 0.0004399993878269387,
+            "closeness_centrality": 0.015715162676488644,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.013812154696132596,
+            "pagerank": 0.001989980198572259
+        },
+        "escalade": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004604051565377532,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0024508111449229692
+        },
+        "hosted-git-info": {
+            "betweenness_centrality": 3.826081633277728e-05,
+            "closeness_centrality": 0.004604051565377532,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0020663938508908926
+        },
+        "validate-npm-package-license": {
+            "betweenness_centrality": 0.0001530432653311091,
+            "closeness_centrality": 0.004604051565377532,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.0020663938508908926
+        },
+        "run-parallel": {
+            "betweenness_centrality": 0.00010713028573177639,
+            "closeness_centrality": 0.008203582789218148,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0025286770512199293
+        },
+        "reusify": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.008203582789218148,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0035219999926098785
+        },
+        "is-number": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.007444024425705146,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.005395468852446019
+        },
+        "run-applescript": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004604051565377532,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0035385441769018246
+        },
+        "unc-path-regex": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004604051565377532,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.004626921508247825
+        },
+        "@keyv/serialize": {
+            "betweenness_centrality": 0.0001377389387979982,
+            "closeness_centrality": 0.00473559589581689,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.003689688064878036
+        },
+        "yocto-queue": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.00473559589581689,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0051677728527829685
+        },
+        "side-channel-list": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.011225116197491888,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.0018735674235576467
+        },
+        "side-channel-map": {
+            "betweenness_centrality": 8.417379593211001e-05,
+            "closeness_centrality": 0.012474102209944752,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.011049723756906077,
+            "pagerank": 0.002192056729785753
+        },
+        "side-channel-weakmap": {
+            "betweenness_centrality": 8.417379593211001e-05,
+            "closeness_centrality": 0.011225116197491888,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.013812154696132596,
+            "pagerank": 0.0018735674235576467
+        },
+        "which-builtin-type": {
+            "betweenness_centrality": 0.001081760813782056,
+            "closeness_centrality": 0.01061640125663525,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.03591160220994475,
+            "pagerank": 0.00174329021214589
+        },
+        "is-bigint": {
+            "betweenness_centrality": 1.5304326533110912e-05,
+            "closeness_centrality": 0.012876492603813936,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0018736411230273972
+        },
+        "is-boolean-object": {
+            "betweenness_centrality": 2.53796748340756e-05,
+            "closeness_centrality": 0.012876492603813936,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.0018736411230273972
+        },
+        "is-number-object": {
+            "betweenness_centrality": 2.53796748340756e-05,
+            "closeness_centrality": 0.012876492603813936,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.0018736411230273972
+        },
+        "lru-cache": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.00473559589581689,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.00329178407906097
+        },
+        "spdx-correct": {
+            "betweenness_centrality": 2.295648979966637e-05,
+            "closeness_centrality": 0.00473559589581689,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.002413569094445475
+        },
+        "spdx-expression-parse": {
+            "betweenness_centrality": 7.652163266555456e-05,
+            "closeness_centrality": 0.006152687091913611,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.0034393069541959254
+        },
+        "queue-microtask": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.00767341927562922,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0036848347725123454
+        },
+        "buffer": {
+            "betweenness_centrality": 0.00010713028573177639,
+            "closeness_centrality": 0.004834254143646409,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.004670270431658054
+        },
+        "is-async-function": {
+            "betweenness_centrality": 1.5942006805323863e-05,
+            "closeness_centrality": 0.009417378201908588,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.011049723756906077,
+            "pagerank": 0.0016493322556689928
+        },
+        "is-finalizationregistry": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.009417378201908588,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0027624309392265192,
+            "pagerank": 0.0016493322556689928
+        },
+        "is-generator-function": {
+            "betweenness_centrality": 1.5942006805323863e-05,
+            "closeness_centrality": 0.009417378201908588,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.011049723756906077,
+            "pagerank": 0.0016493322556689928
+        },
+        "which-collection": {
+            "betweenness_centrality": 0.00045912979599332736,
+            "closeness_centrality": 0.009417378201908588,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.011049723756906077,
+            "pagerank": 0.0016493322556689928
+        },
+        "spdx-license-ids": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.006096399314155077,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0055248618784530384,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.004022838933368673
+        },
+        "spdx-exceptions": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.005893186003683241,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.002997101073618222
+        },
+        "base64-js": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004910988336402701,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0035200647771777395
+        },
+        "ieee754": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.004910988336402701,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0035200647771777395
+        },
+        "is-map": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.00862417463953645,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0018858212822852386
+        },
+        "is-set": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.00862417463953645,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0018858212822852386
+        },
+        "is-weakmap": {
+            "betweenness_centrality": 0.0,
+            "closeness_centrality": 0.00862417463953645,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0,
+            "pagerank": 0.0018858212822852386
+        },
+        "is-weakset": {
+            "betweenness_centrality": 9.947812246522093e-05,
+            "closeness_centrality": 0.00862417463953645,
+            "degree_centrality": null,
+            "in_degree_centrality": 0.0027624309392265192,
+            "out_degree_centrality": 0.0055248618784530384,
+            "pagerank": 0.0018858212822852386
+        }
+    },
+    "small-worldness": {
+        "omega": null,
+        "sigma": null
+    }
+}
